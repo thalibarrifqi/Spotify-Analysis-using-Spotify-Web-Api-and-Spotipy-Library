@@ -1,0 +1,1200 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,State Of Grace (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,295413,83,0.000328,0.594,0.713,0.0,0.114,-5.314,0.0503,129.958,4
+1,Red (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223093,85,0.00108,0.516,0.777,1.62e-06,0.0761,-4.908,0.0375,125.047,4
+2,Treacherous (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,242720,82,0.0344,0.645,0.593,0.000127,0.13,-6.506,0.0288,109.984,4
+3,I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,219760,83,0.0129,0.584,0.557,0.0,0.0576,-6.371,0.0342,154.008,4
+4,All Too Well (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,329160,84,0.0171,0.44,0.528,0.00203,0.234,-7.809,0.0317,185.972,4
+5,22 (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,230960,82,0.000443,0.642,0.695,1.02e-05,0.0753,-5.62,0.0281,103.984,4
+6,I Almost Do (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,244586,81,0.0167,0.511,0.559,0.0,0.113,-6.587,0.0264,145.88,4
+7,We Are Never Ever Getting Back Together (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,193146,82,0.0317,0.567,0.686,1.86e-06,0.0732,-6.139,0.175,172.014,4
+8,Stay Stay Stay (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,205786,80,0.0848,0.693,0.681,0.0,0.0768,-7.039,0.025,100.02,4
+9,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,299080,81,0.0399,0.502,0.534,0.0,0.0977,-5.954,0.0278,94.05,4
+10,Holy Ground (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,202960,80,0.0288,0.622,0.809,0.00218,0.109,-5.623,0.0638,156.894,4
+11,Sad Beautiful Tragic (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,284773,79,0.622,0.601,0.406,9.19e-05,0.133,-11.827,0.0275,130.059,3
+12,The Lucky One (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,240466,79,0.066,0.686,0.571,0.0,0.0608,-7.138,0.05,117.889,4
+13,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,245426,81,0.271,0.498,0.61,0.0,0.223,-5.098,0.0363,79.918,4
+14,Starlight (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220413,79,0.00324,0.628,0.685,0.0,0.18,-5.864,0.0358,126.014,4
+15,Begin Again (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,238866,80,0.075,0.519,0.527,0.0,0.132,-7.673,0.0274,78.915,4
+16,The Moment I Knew (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,285280,79,0.0494,0.636,0.402,0.0,0.107,-7.855,0.031,125.952,4
+17,Come Back...Be Here (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223333,79,0.0158,0.46,0.632,0.0,0.0822,-6.031,0.0302,79.846,4
+18,Girl At Home (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220520,78,0.00955,0.691,0.736,1.88e-05,0.101,-6.974,0.0326,125.089,4
+19,State Of Grace (Acoustic Version) (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,321640,78,0.663,0.445,0.131,1.57e-06,0.108,-13.778,0.0564,208.918,3
+20,Ronan (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,264253,77,0.661,0.623,0.279,0.0,0.193,-10.802,0.031,116.04,4
+21,Better Man (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,297013,81,0.214,0.473,0.579,0.0,0.0877,-5.824,0.0384,73.942,4
+22,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,258812,83,0.817,0.606,0.377,0.0,0.154,-9.455,0.0275,101.96,4
+23,Babe (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,224240,80,0.0538,0.584,0.743,2.83e-06,0.121,-7.075,0.0931,167.844,4
+24,Message In A Bottle (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,225960,81,0.00188,0.622,0.791,3.72e-06,0.083,-6.106,0.0535,115.915,4
+25,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,285106,82,0.167,0.391,0.715,0.0,0.183,-4.516,0.0495,149.654,3
+26,Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,263533,79,0.256,0.611,0.552,0.0,0.134,-5.828,0.031,116.012,4
+27,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,240226,83,0.817,0.61,0.488,0.0,0.312,-6.918,0.0293,125.039,4
+28,The Very First Night (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,200280,80,0.00115,0.678,0.733,0.0,0.104,-5.025,0.0281,121.009,4
+29,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,613026,90,0.274,0.631,0.518,0.0,0.088,-8.771,0.0303,93.023,4
+30,State Of Grace (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,295413,64,0.000328,0.594,0.713,0.0,0.114,-5.314,0.0503,129.958,4
+31,Red (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223093,65,0.00108,0.516,0.777,1.62e-06,0.0761,-4.908,0.0375,125.047,4
+32,Treacherous (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,242720,63,0.0344,0.645,0.593,0.000127,0.13,-6.506,0.0288,109.984,4
+33,I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,219760,68,0.0129,0.584,0.557,0.0,0.0576,-6.371,0.0342,154.008,4
+34,All Too Well (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,329160,67,0.0171,0.44,0.528,0.00203,0.234,-7.809,0.0317,185.972,4
+35,22 (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,230960,66,0.000443,0.642,0.695,1.02e-05,0.0753,-5.62,0.0281,103.984,4
+36,I Almost Do (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,244586,62,0.0167,0.511,0.559,0.0,0.113,-6.587,0.0264,145.88,4
+37,We Are Never Ever Getting Back Together (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,193146,66,0.0317,0.567,0.686,1.86e-06,0.0732,-6.139,0.175,172.014,4
+38,Stay Stay Stay (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,205786,62,0.0848,0.693,0.681,0.0,0.0768,-7.039,0.025,100.02,4
+39,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,299080,61,0.0399,0.502,0.534,0.0,0.0977,-5.954,0.0278,94.05,4
+40,Holy Ground (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,202960,61,0.0288,0.622,0.809,0.00218,0.109,-5.623,0.0638,156.894,4
+41,Sad Beautiful Tragic (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,284773,61,0.622,0.601,0.406,9.19e-05,0.133,-11.827,0.0275,130.059,3
+42,The Lucky One (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,240466,60,0.066,0.686,0.571,0.0,0.0608,-7.138,0.05,117.889,4
+43,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,245426,63,0.271,0.498,0.61,0.0,0.223,-5.098,0.0363,79.918,4
+44,Starlight (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220413,61,0.00324,0.628,0.685,0.0,0.18,-5.864,0.0358,126.014,4
+45,Begin Again (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,238866,60,0.075,0.519,0.527,0.0,0.132,-7.673,0.0274,78.915,4
+46,The Moment I Knew (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,285280,60,0.0494,0.636,0.402,0.0,0.107,-7.855,0.031,125.952,4
+47,Come Back...Be Here (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223333,59,0.0158,0.46,0.632,0.0,0.0822,-6.031,0.0302,79.846,4
+48,Girl At Home (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220520,59,0.00955,0.691,0.736,1.88e-05,0.101,-6.974,0.0326,125.089,4
+49,State Of Grace (Acoustic Version) (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,321640,58,0.663,0.445,0.131,1.57e-06,0.108,-13.778,0.0564,208.918,3
+50,Ronan (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,264253,59,0.661,0.623,0.279,0.0,0.193,-10.802,0.031,116.04,4
+51,Better Man (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,297013,64,0.214,0.473,0.579,0.0,0.0877,-5.824,0.0384,73.942,4
+52,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,258812,62,0.817,0.606,0.377,0.0,0.154,-9.455,0.0275,101.96,4
+53,Babe (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,224240,60,0.0538,0.584,0.743,2.83e-06,0.121,-7.075,0.0931,167.844,4
+54,Message In A Bottle (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,225960,60,0.00188,0.622,0.791,3.72e-06,0.083,-6.106,0.0535,115.915,4
+55,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,285106,61,0.16,0.403,0.714,0.0,0.179,-4.514,0.0488,149.67,3
+56,Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,263533,61,0.256,0.611,0.552,0.0,0.134,-5.828,0.031,116.012,4
+57,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,240226,60,0.817,0.61,0.488,0.0,0.312,-6.918,0.0293,125.039,4
+58,The Very First Night (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,200280,60,0.00115,0.678,0.733,0.0,0.104,-5.025,0.0281,121.009,4
+59,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,613026,69,0.279,0.631,0.522,0.0,0.0875,-8.649,0.0302,93.0,4
+60,Fearless (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,241591,71,0.0122,0.569,0.741,0.0,0.333,-4.963,0.0282,100.118,4
+61,Fifteen (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,294419,68,0.116,0.559,0.646,0.0,0.32,-4.61,0.0272,95.466,4
+62,Love Story (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,235766,75,0.13,0.627,0.792,3.97e-06,0.0845,-4.311,0.031,119.054,4
+63,Hey Stephen (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,254254,67,0.106,0.788,0.571,0.0,0.0934,-6.135,0.0296,115.99,4
+64,White Horse (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,234515,68,0.369,0.423,0.517,0.0,0.177,-7.377,0.0486,185.262,4
+65,You Belong With Me (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,231124,77,0.0623,0.632,0.773,0.0,0.0885,-4.856,0.0346,130.033,4
+66,Breathe (feat. Colbie Caillat) (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,263377,66,0.156,0.506,0.626,0.0,0.228,-6.066,0.0287,148.035,4
+67,Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,200575,65,0.0222,0.578,0.909,0.0,0.333,-3.669,0.0628,100.023,4
+68,You’re Not Sorry (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,261842,66,0.0538,0.506,0.444,0.0,0.123,-4.99,0.0285,133.873,4
+69,The Way I Loved You (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,243136,74,0.0033,0.402,0.732,0.0,0.108,-4.665,0.0484,161.032,4
+70,Forever & Always (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,225328,68,0.0231,0.598,0.821,0.0,0.143,-4.433,0.0447,128.03,4
+71,The Best Day (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,245290,64,0.488,0.642,0.576,0.0,0.159,-8.524,0.0282,125.0,4
+72,Change (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,279359,63,0.000191,0.499,0.815,0.0,0.181,-4.063,0.0341,95.999,4
+73,Jump Then Fall (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,237580,64,0.0474,0.572,0.69,0.0,0.0897,-6.201,0.0358,160.111,4
+74,Untouchable (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,312107,64,0.0181,0.393,0.531,0.0,0.169,-6.112,0.0329,200.391,4
+75,Forever & Always (Piano Version) (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,267833,64,0.819,0.546,0.273,0.0,0.137,-9.208,0.0308,118.753,4
+76,Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,237338,62,0.0406,0.476,0.564,0.0,0.102,-5.677,0.0269,143.929,4
+77,Superstar (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,263865,61,0.157,0.454,0.555,0.0,0.343,-6.69,0.0283,171.862,4
+78,The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,238443,65,0.0279,0.432,0.873,0.0,0.167,-4.367,0.0577,163.936,4
+79,Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,241822,64,0.0135,0.482,0.779,0.0,0.296,-5.025,0.0409,158.162,4
+80,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,220839,64,0.816,0.599,0.494,0.0,0.101,-7.61,0.0372,142.893,4
+81,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,277591,74,0.162,0.66,0.817,0.0,0.0667,-6.269,0.0521,135.942,4
+82,We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,244236,66,0.849,0.609,0.373,0.0,0.0779,-8.819,0.0263,106.007,4
+83,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,189495,68,0.225,0.588,0.608,0.0,0.092,-7.062,0.0365,90.201,4
+84,Don’t You (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,208608,67,0.514,0.563,0.473,1.2e-05,0.109,-11.548,0.0503,101.934,4
+85,Bye Bye Baby (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,242157,65,0.334,0.624,0.624,0.0,0.0995,-7.86,0.0539,80.132,4
+86,willow,evermore (deluxe version),Taylor Swift,2021-01-07,214706,67,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,81.112,4
+87,champagne problems,evermore (deluxe version),Taylor Swift,2021-01-07,244000,69,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,4
+88,gold rush,evermore (deluxe version),Taylor Swift,2021-01-07,185320,66,0.83,0.512,0.462,0.166,0.121,-10.491,0.0408,112.05,4
+89,‘tis the damn season,evermore (deluxe version),Taylor Swift,2021-01-07,229840,66,0.735,0.575,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,4
+90,tolerate it,evermore (deluxe version),Taylor Swift,2021-01-07,245440,66,0.878,0.316,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,5
+91,"no body, no crime (feat. HAIM)",evermore (deluxe version),Taylor Swift,2021-01-07,215626,65,0.418,0.546,0.613,0.0,0.103,-7.589,0.0264,79.015,4
+92,happiness,evermore (deluxe version),Taylor Swift,2021-01-07,315146,64,0.87,0.559,0.334,0.0,0.114,-10.733,0.0376,122.079,4
+93,dorothea,evermore (deluxe version),Taylor Swift,2021-01-07,225880,64,0.696,0.605,0.488,0.0,0.129,-8.322,0.0264,119.966,4
+94,coney island (feat. The National),evermore (deluxe version),Taylor Swift,2021-01-07,275320,64,0.819,0.537,0.537,0.000904,0.142,-11.266,0.0617,107.895,4
+95,ivy,evermore (deluxe version),Taylor Swift,2021-01-07,260440,65,0.855,0.515,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,4
+96,cowboy like me,evermore (deluxe version),Taylor Swift,2021-01-07,275040,64,0.768,0.604,0.517,0.000155,0.123,-9.014,0.0347,127.967,4
+97,long story short,evermore (deluxe version),Taylor Swift,2021-01-07,215920,64,0.66,0.546,0.73,0.179,0.0972,-7.704,0.0417,157.895,4
+98,marjorie,evermore (deluxe version),Taylor Swift,2021-01-07,257773,63,0.876,0.535,0.561,0.000136,0.115,-11.609,0.0484,96.103,4
+99,closure,evermore (deluxe version),Taylor Swift,2021-01-07,180653,62,0.835,0.689,0.704,4.83e-06,0.134,-10.813,0.245,151.884,5
+100,evermore (feat. Bon Iver),evermore (deluxe version),Taylor Swift,2021-01-07,304106,64,0.937,0.39,0.27,0.00227,0.111,-10.673,0.0308,125.177,5
+101,right where you left me - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,245026,72,0.769,0.581,0.619,0.000106,0.117,-6.524,0.0282,137.915,4
+102,it’s time to go - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,254640,68,0.801,0.592,0.41,1.39e-05,0.09,-12.426,0.0397,151.923,4
+103,willow,evermore (deluxe version),Taylor Swift,2021-01-07,214706,31,0.835,0.392,0.579,0.00179,0.145,-9.195,0.164,80.961,4
+104,champagne problems,evermore (deluxe version),Taylor Swift,2021-01-07,244000,34,0.92,0.463,0.248,0.0,0.113,-12.036,0.0374,171.346,4
+105,gold rush,evermore (deluxe version),Taylor Swift,2021-01-07,185320,32,0.811,0.498,0.471,0.113,0.121,-10.406,0.0411,112.018,4
+106,‘tis the damn season,evermore (deluxe version),Taylor Swift,2021-01-07,229840,31,0.737,0.575,0.435,5.38e-05,0.105,-8.193,0.0311,145.91,4
+107,tolerate it,evermore (deluxe version),Taylor Swift,2021-01-07,245440,31,0.878,0.373,0.36,1.54e-05,0.079,-10.376,0.0387,147.442,5
+108,"no body, no crime (feat. HAIM)",evermore (deluxe version),Taylor Swift,2021-01-07,215626,30,0.431,0.547,0.613,0.0,0.102,-7.577,0.0264,79.011,4
+109,happiness,evermore (deluxe version),Taylor Swift,2021-01-07,315146,30,0.861,0.558,0.331,0.0,0.113,-10.649,0.0381,122.035,4
+110,dorothea,evermore (deluxe version),Taylor Swift,2021-01-07,225880,29,0.694,0.607,0.488,0.0,0.129,-8.329,0.0264,119.953,4
+111,coney island (feat. The National),evermore (deluxe version),Taylor Swift,2021-01-07,275320,29,0.826,0.529,0.536,0.00082,0.141,-11.269,0.0627,107.873,4
+112,ivy,evermore (deluxe version),Taylor Swift,2021-01-07,260440,31,0.848,0.329,0.547,1.11e-05,0.088,-9.514,0.0397,86.629,4
+113,cowboy like me,evermore (deluxe version),Taylor Swift,2021-01-07,275040,30,0.774,0.605,0.513,0.000177,0.123,-8.962,0.0337,127.986,4
+114,long story short,evermore (deluxe version),Taylor Swift,2021-01-07,215920,30,0.674,0.546,0.732,0.184,0.0972,-7.715,0.0423,157.893,4
+115,marjorie,evermore (deluxe version),Taylor Swift,2021-01-07,257773,28,0.878,0.535,0.562,0.000132,0.114,-11.615,0.0479,96.103,4
+116,closure,evermore (deluxe version),Taylor Swift,2021-01-07,180653,27,0.832,0.686,0.705,4.55e-06,0.134,-10.823,0.249,151.868,5
+117,evermore (feat. Bon Iver),evermore (deluxe version),Taylor Swift,2021-01-07,304106,29,0.937,0.395,0.27,0.00249,0.111,-10.672,0.0309,120.94,5
+118,right where you left me - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,245026,42,0.769,0.581,0.619,0.000106,0.117,-6.524,0.0282,137.915,4
+119,it’s time to go - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,254640,38,0.801,0.592,0.41,1.39e-05,0.09,-12.426,0.0397,151.923,4
+120,willow,evermore,Taylor Swift,2020-12-11,214706,50,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,81.112,4
+121,champagne problems,evermore,Taylor Swift,2020-12-11,244000,37,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,4
+122,gold rush,evermore,Taylor Swift,2020-12-11,185320,33,0.83,0.512,0.462,0.166,0.121,-10.491,0.0408,112.05,4
+123,‘tis the damn season,evermore,Taylor Swift,2020-12-11,229840,31,0.735,0.575,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,4
+124,tolerate it,evermore,Taylor Swift,2020-12-11,245440,28,0.878,0.316,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,5
+125,"no body, no crime (feat. HAIM)",evermore,Taylor Swift,2020-12-11,215626,32,0.418,0.546,0.613,0.0,0.103,-7.589,0.0264,79.015,4
+126,happiness,evermore,Taylor Swift,2020-12-11,315146,28,0.87,0.559,0.334,0.0,0.114,-10.733,0.0376,122.079,4
+127,dorothea,evermore,Taylor Swift,2020-12-11,225880,29,0.696,0.605,0.488,0.0,0.129,-8.322,0.0264,119.966,4
+128,coney island (feat. The National),evermore,Taylor Swift,2020-12-11,275320,29,0.819,0.537,0.537,0.000904,0.142,-11.266,0.0617,107.895,4
+129,ivy,evermore,Taylor Swift,2020-12-11,260440,30,0.855,0.515,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,4
+130,cowboy like me,evermore,Taylor Swift,2020-12-11,275040,28,0.768,0.604,0.517,0.000155,0.123,-9.014,0.0347,127.967,4
+131,long story short,evermore,Taylor Swift,2020-12-11,215920,30,0.66,0.546,0.73,0.179,0.0972,-7.704,0.0417,157.895,4
+132,marjorie,evermore,Taylor Swift,2020-12-11,257773,29,0.876,0.535,0.561,0.000136,0.115,-11.609,0.0484,96.103,4
+133,closure,evermore,Taylor Swift,2020-12-11,180653,28,0.835,0.689,0.704,4.83e-06,0.134,-10.813,0.245,151.884,5
+134,evermore (feat. Bon Iver),evermore,Taylor Swift,2020-12-11,304106,32,0.937,0.39,0.27,0.00227,0.111,-10.673,0.0308,125.177,5
+135,willow,evermore,Taylor Swift,2020-12-11,214706,80,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,81.112,4
+136,champagne problems,evermore,Taylor Swift,2020-12-11,244000,79,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,4
+137,gold rush,evermore,Taylor Swift,2020-12-11,185320,72,0.83,0.512,0.462,0.166,0.121,-10.491,0.0408,112.05,4
+138,‘tis the damn season,evermore,Taylor Swift,2020-12-11,229840,69,0.735,0.575,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,4
+139,tolerate it,evermore,Taylor Swift,2020-12-11,245440,69,0.878,0.316,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,5
+140,"no body, no crime (feat. HAIM)",evermore,Taylor Swift,2020-12-11,215626,70,0.418,0.546,0.613,0.0,0.103,-7.589,0.0264,79.015,4
+141,happiness,evermore,Taylor Swift,2020-12-11,315146,67,0.87,0.559,0.334,0.0,0.114,-10.733,0.0376,122.079,4
+142,dorothea,evermore,Taylor Swift,2020-12-11,225880,65,0.696,0.605,0.488,0.0,0.129,-8.322,0.0264,119.966,4
+143,coney island (feat. The National),evermore,Taylor Swift,2020-12-11,275320,66,0.819,0.537,0.537,0.000904,0.142,-11.266,0.0617,107.895,4
+144,ivy,evermore,Taylor Swift,2020-12-11,260440,68,0.855,0.515,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,4
+145,cowboy like me,evermore,Taylor Swift,2020-12-11,275040,66,0.768,0.604,0.517,0.000155,0.123,-9.014,0.0347,127.967,4
+146,long story short,evermore,Taylor Swift,2020-12-11,215920,67,0.66,0.546,0.73,0.179,0.0972,-7.704,0.0417,157.895,4
+147,marjorie,evermore,Taylor Swift,2020-12-11,257773,66,0.876,0.535,0.561,0.000136,0.115,-11.609,0.0484,96.103,4
+148,closure,evermore,Taylor Swift,2020-12-11,180653,64,0.835,0.689,0.704,4.83e-06,0.134,-10.813,0.245,151.884,5
+149,evermore (feat. Bon Iver),evermore,Taylor Swift,2020-12-11,304106,68,0.937,0.39,0.27,0.00227,0.111,-10.673,0.0308,125.177,5
+150,willow,evermore,Taylor Swift,2020-12-10,214706,74,0.835,0.392,0.579,0.00179,0.145,-9.195,0.164,80.961,4
+151,champagne problems,evermore,Taylor Swift,2020-12-10,244000,58,0.92,0.463,0.248,0.0,0.113,-12.036,0.0374,171.346,4
+152,gold rush,evermore,Taylor Swift,2020-12-10,185320,54,0.811,0.498,0.471,0.113,0.121,-10.406,0.0411,112.018,4
+153,‘tis the damn season,evermore,Taylor Swift,2020-12-10,229840,60,0.737,0.575,0.435,5.38e-05,0.105,-8.193,0.0311,145.91,4
+154,tolerate it,evermore,Taylor Swift,2020-12-10,245440,53,0.878,0.373,0.36,1.54e-05,0.079,-10.376,0.0387,147.442,5
+155,"no body, no crime (feat. HAIM)",evermore,Taylor Swift,2020-12-10,215626,61,0.431,0.547,0.613,0.0,0.102,-7.577,0.0264,79.011,4
+156,happiness,evermore,Taylor Swift,2020-12-10,315146,52,0.861,0.558,0.331,0.0,0.113,-10.649,0.0381,122.035,4
+157,dorothea,evermore,Taylor Swift,2020-12-10,225880,55,0.694,0.607,0.488,0.0,0.129,-8.329,0.0264,119.953,4
+158,coney island (feat. The National),evermore,Taylor Swift,2020-12-10,275320,56,0.826,0.529,0.536,0.00082,0.141,-11.269,0.0627,107.873,4
+159,ivy,evermore,Taylor Swift,2020-12-10,260440,53,0.848,0.329,0.547,1.11e-05,0.088,-9.514,0.0397,86.629,4
+160,cowboy like me,evermore,Taylor Swift,2020-12-10,275040,52,0.774,0.605,0.513,0.000177,0.123,-8.962,0.0337,127.986,4
+161,long story short,evermore,Taylor Swift,2020-12-10,215920,58,0.674,0.546,0.732,0.184,0.0972,-7.715,0.0423,157.893,4
+162,marjorie,evermore,Taylor Swift,2020-12-10,257773,56,0.878,0.535,0.562,0.000132,0.114,-11.615,0.0479,96.103,4
+163,closure,evermore,Taylor Swift,2020-12-10,180653,53,0.832,0.686,0.705,4.55e-06,0.134,-10.823,0.249,151.868,5
+164,evermore (feat. Bon Iver),evermore,Taylor Swift,2020-12-10,304106,61,0.937,0.395,0.27,0.00249,0.111,-10.672,0.0309,120.94,5
+165,the 1,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,210240,49,0.75,0.78,0.361,7.14e-06,0.108,-6.942,0.048,139.902,4
+166,cardigan,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,239560,49,0.525,0.612,0.58,0.000414,0.26,-8.572,0.0419,130.045,4
+167,the last great american dynasty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,231000,47,0.481,0.688,0.653,0.00414,0.106,-8.558,0.0403,147.991,4
+168,exile (feat. Bon Iver),folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,285640,49,0.761,0.31,0.374,2.46e-05,0.11,-8.464,0.0275,75.938,4
+169,my tears ricochet,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,255893,47,0.814,0.456,0.265,0.0,0.0679,-10.663,0.0328,129.947,4
+170,mirrorball,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208973,46,0.686,0.549,0.417,1.9e-06,0.0604,-10.064,0.035,110.137,4
+171,seven,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208906,46,0.888,0.602,0.494,2.59e-05,0.0902,-10.813,0.0277,94.955,4
+172,august,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,261920,49,0.553,0.387,0.634,6.93e-05,0.0931,-9.222,0.0363,89.567,4
+173,this is me trying,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,195106,47,0.312,0.511,0.478,2.3e-05,0.147,-9.837,0.0322,135.882,4
+174,illicit affairs,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,190893,46,0.862,0.529,0.304,0.0,0.108,-10.567,0.0356,119.58,4
+175,invisible string,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,252880,47,0.859,0.651,0.459,6.63e-05,0.105,-11.128,0.0507,83.455,4
+176,mad woman,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,237266,44,0.67,0.593,0.7,6.77e-06,0.116,-9.016,0.0492,141.898,4
+177,epiphany,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,289746,44,0.727,0.317,0.254,0.000326,0.0867,-13.679,0.0286,93.933,4
+178,betty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,294520,46,0.589,0.595,0.376,0.0,0.0989,-8.767,0.0256,95.946,4
+179,peace,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,234000,44,0.916,0.644,0.284,1.5e-05,0.0909,-12.879,0.0821,150.072,4
+180,hoax,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,220040,43,0.964,0.676,0.178,7.9e-06,0.135,-15.01,0.0394,118.84,4
+181,the lakes - bonus track,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,211813,45,0.842,0.313,0.258,1.3e-06,0.0948,-11.532,0.0383,179.947,4
+182,the 1 - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,219893,54,0.898,0.708,0.25,0.026,0.102,-10.731,0.0361,139.803,4
+183,cardigan - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,230680,55,0.88,0.395,0.234,0.0,0.107,-9.704,0.0382,86.478,3
+184,the last great american dynasty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,232346,52,0.743,0.64,0.618,0.004,0.0574,-11.715,0.0379,147.948,4
+185,exile (feat. Bon Iver) - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,279893,56,0.848,0.359,0.305,6.74e-05,0.111,-10.295,0.0306,151.956,4
+186,my tears ricochet - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,295173,55,0.946,0.531,0.172,1.01e-05,0.0615,-12.34,0.0351,129.007,4
+187,mirrorball - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,237373,53,0.78,0.509,0.386,3.45e-05,0.118,-8.434,0.0272,109.993,4
+188,seven - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208986,52,0.914,0.694,0.449,0.000126,0.1,-11.49,0.0301,94.963,4
+189,august - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,260000,55,0.5,0.554,0.663,4.77e-05,0.791,-8.961,0.0324,89.977,4
+190,this is me trying - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,209293,54,0.928,0.435,0.332,0.000898,0.0867,-11.611,0.031,68.097,3
+191,illicit affairs - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,183720,52,0.883,0.489,0.235,0.0,0.113,-10.274,0.0356,117.699,4
+192,invisible string - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,257359,51,0.942,0.59,0.282,4.85e-06,0.11,-10.542,0.0281,83.438,4
+193,mad woman - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,238333,50,0.887,0.663,0.465,0.000168,0.109,-10.463,0.0408,141.834,4
+194,epiphany - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,274880,50,0.916,0.524,0.2,0.000392,0.068,-13.004,0.0274,93.87,4
+195,betty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,290040,51,0.841,0.538,0.316,0.0,0.119,-9.5,0.0299,95.68,4
+196,peace - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,214373,50,0.93,0.619,0.344,7.61e-05,0.0734,-11.472,0.0647,149.897,4
+197,hoax - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,221800,52,0.962,0.682,0.155,0.0,0.18,-13.083,0.0394,118.832,4
+198,the lakes - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,199733,52,0.794,0.606,0.221,0.0,0.0888,-11.767,0.0468,89.844,4
+199,the 1,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,210251,20,0.764,0.765,0.348,1.01e-05,0.108,-6.963,0.0579,140.016,4
+200,cardigan,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,239560,21,0.537,0.613,0.581,0.000345,0.25,-8.588,0.0424,130.033,4
+201,the last great american dynasty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,230999,19,0.473,0.684,0.661,0.00215,0.109,-8.507,0.0407,147.909,4
+202,exile (feat. Bon Iver),folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,285634,32,0.778,0.298,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,4
+203,my tears ricochet,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,255893,22,0.806,0.469,0.263,0.0,0.0749,-10.63,0.0329,129.86,4
+204,mirrorball,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208977,18,0.687,0.553,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,4
+205,seven,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208906,18,0.9,0.596,0.488,2.7e-05,0.091,-10.769,0.0274,94.922,4
+206,august,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,261922,21,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,4
+207,this is me trying,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,195097,22,0.314,0.515,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,4
+208,illicit affairs,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,190898,19,0.881,0.559,0.31,0.0,0.106,-10.445,0.0338,119.845,4
+209,invisible string,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,252880,18,0.838,0.653,0.452,7.73e-05,0.108,-11.143,0.055,83.433,4
+210,mad woman,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,237258,17,0.649,0.596,0.709,9.92e-06,0.114,-8.938,0.0431,141.978,4
+211,epiphany,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,289749,16,0.731,0.175,0.267,0.000402,0.0858,-13.69,0.0302,94.203,4
+212,betty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,294521,20,0.544,0.59,0.379,0.0,0.0983,-8.717,0.0255,96.029,4
+213,peace,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,234000,16,0.918,0.651,0.269,2.17e-05,0.0918,-12.912,0.0983,150.033,4
+214,hoax,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,220042,16,0.966,0.662,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,4
+215,the lakes - bonus track,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,211798,17,0.85,0.509,0.262,1.68e-06,0.0851,-11.531,0.0311,89.846,4
+216,the 1 - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,219268,23,0.895,0.701,0.253,0.0287,0.105,-10.759,0.0374,139.653,4
+217,cardigan - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,230680,25,0.88,0.395,0.234,0.0,0.107,-9.704,0.0382,86.478,3
+218,the last great american dynasty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,233773,27,0.747,0.642,0.623,0.00767,0.0542,-11.76,0.041,147.936,4
+219,exile (feat. Bon Iver) - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,279893,59,0.848,0.359,0.305,6.74e-05,0.111,-10.295,0.0306,151.956,4
+220,my tears ricochet - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,295173,28,0.946,0.531,0.172,1.01e-05,0.0615,-12.34,0.0351,129.007,4
+221,mirrorball - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,237373,29,0.78,0.509,0.386,3.45e-05,0.118,-8.434,0.0272,109.993,4
+222,seven - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,208986,29,0.914,0.694,0.449,0.000126,0.1,-11.49,0.0301,94.963,4
+223,august - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,260000,25,0.5,0.554,0.663,4.77e-05,0.791,-8.961,0.0324,89.977,4
+224,this is me trying - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,209293,25,0.928,0.435,0.332,0.000898,0.0867,-11.611,0.031,68.097,3
+225,illicit affairs - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,183720,24,0.883,0.489,0.235,0.0,0.113,-10.274,0.0356,117.699,4
+226,invisible string - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,257359,24,0.942,0.59,0.282,4.85e-06,0.11,-10.542,0.0281,83.438,4
+227,mad woman - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,238280,22,0.903,0.666,0.457,0.000102,0.118,-10.46,0.0405,141.849,4
+228,epiphany - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,274880,21,0.916,0.524,0.2,0.000392,0.068,-13.004,0.0274,93.87,4
+229,betty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,288563,21,0.844,0.581,0.313,0.0,0.18,-9.597,0.0298,95.802,4
+230,peace - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,213013,20,0.934,0.595,0.355,6.3e-05,0.0745,-11.068,0.0607,149.897,4
+231,hoax - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,221800,20,0.962,0.682,0.155,0.0,0.18,-13.083,0.0394,118.832,4
+232,the lakes - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],Taylor Swift,2020-11-25,199733,22,0.794,0.606,0.221,0.0,0.0888,-11.767,0.0468,89.844,4
+233,the 1,folklore (deluxe version),Taylor Swift,2020-08-18,210240,64,0.75,0.78,0.361,7.14e-06,0.108,-6.942,0.048,139.902,4
+234,cardigan,folklore (deluxe version),Taylor Swift,2020-08-18,239560,65,0.525,0.612,0.58,0.000414,0.26,-8.572,0.0419,130.045,4
+235,the last great american dynasty,folklore (deluxe version),Taylor Swift,2020-08-18,231000,63,0.481,0.688,0.653,0.00414,0.106,-8.558,0.0403,147.991,4
+236,exile (feat. Bon Iver),folklore (deluxe version),Taylor Swift,2020-08-18,285640,64,0.761,0.31,0.374,2.46e-05,0.11,-8.464,0.0275,75.938,4
+237,my tears ricochet,folklore (deluxe version),Taylor Swift,2020-08-18,255893,64,0.814,0.456,0.265,0.0,0.0679,-10.663,0.0328,129.947,4
+238,mirrorball,folklore (deluxe version),Taylor Swift,2020-08-18,208973,63,0.686,0.549,0.417,1.9e-06,0.0604,-10.064,0.035,110.137,4
+239,seven,folklore (deluxe version),Taylor Swift,2020-08-18,208906,62,0.888,0.602,0.494,2.59e-05,0.0902,-10.813,0.0277,94.955,4
+240,august,folklore (deluxe version),Taylor Swift,2020-08-18,261920,65,0.553,0.387,0.634,6.93e-05,0.0931,-9.222,0.0363,89.567,4
+241,this is me trying,folklore (deluxe version),Taylor Swift,2020-08-18,195106,63,0.312,0.511,0.478,2.3e-05,0.147,-9.837,0.0322,135.882,4
+242,illicit affairs,folklore (deluxe version),Taylor Swift,2020-08-18,190893,62,0.862,0.529,0.304,0.0,0.108,-10.567,0.0356,119.58,4
+243,invisible string,folklore (deluxe version),Taylor Swift,2020-08-18,252880,62,0.859,0.651,0.459,6.63e-05,0.105,-11.128,0.0507,83.455,4
+244,mad woman,folklore (deluxe version),Taylor Swift,2020-08-18,237266,60,0.67,0.593,0.7,6.77e-06,0.116,-9.016,0.0492,141.898,4
+245,epiphany,folklore (deluxe version),Taylor Swift,2020-08-18,289746,59,0.727,0.317,0.254,0.000326,0.0867,-13.679,0.0286,93.933,4
+246,betty,folklore (deluxe version),Taylor Swift,2020-08-18,294520,62,0.589,0.595,0.376,0.0,0.0989,-8.767,0.0256,95.946,4
+247,peace,folklore (deluxe version),Taylor Swift,2020-08-18,234000,60,0.916,0.644,0.284,1.5e-05,0.0909,-12.879,0.0821,150.072,4
+248,hoax,folklore (deluxe version),Taylor Swift,2020-08-18,220040,59,0.964,0.676,0.178,7.9e-06,0.135,-15.01,0.0394,118.84,4
+249,the lakes - bonus track,folklore (deluxe version),Taylor Swift,2020-08-18,211813,65,0.842,0.313,0.258,1.3e-06,0.0948,-11.532,0.0383,179.947,4
+250,the 1,folklore (deluxe version),Taylor Swift,2020-08-17,210251,39,0.764,0.765,0.348,1.01e-05,0.108,-6.963,0.0579,140.016,4
+251,cardigan,folklore (deluxe version),Taylor Swift,2020-08-17,239560,30,0.537,0.613,0.581,0.000345,0.25,-8.588,0.0424,130.033,4
+252,the last great american dynasty,folklore (deluxe version),Taylor Swift,2020-08-17,230999,31,0.473,0.684,0.661,0.00215,0.109,-8.507,0.0407,147.909,4
+253,exile (feat. Bon Iver),folklore (deluxe version),Taylor Swift,2020-08-17,285634,35,0.778,0.298,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,4
+254,my tears ricochet,folklore (deluxe version),Taylor Swift,2020-08-17,255893,29,0.806,0.469,0.263,0.0,0.0749,-10.63,0.0329,129.86,4
+255,mirrorball,folklore (deluxe version),Taylor Swift,2020-08-17,208977,28,0.687,0.553,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,4
+256,seven,folklore (deluxe version),Taylor Swift,2020-08-17,208906,28,0.9,0.596,0.488,2.7e-05,0.091,-10.769,0.0274,94.922,4
+257,august,folklore (deluxe version),Taylor Swift,2020-08-17,261922,30,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,4
+258,this is me trying,folklore (deluxe version),Taylor Swift,2020-08-17,195097,28,0.314,0.515,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,4
+259,illicit affairs,folklore (deluxe version),Taylor Swift,2020-08-17,190898,28,0.881,0.559,0.31,0.0,0.106,-10.445,0.0338,119.845,4
+260,invisible string,folklore (deluxe version),Taylor Swift,2020-08-17,252880,28,0.838,0.653,0.452,7.73e-05,0.108,-11.143,0.055,83.433,4
+261,mad woman,folklore (deluxe version),Taylor Swift,2020-08-17,237258,26,0.649,0.596,0.709,9.92e-06,0.114,-8.938,0.0431,141.978,4
+262,epiphany,folklore (deluxe version),Taylor Swift,2020-08-17,289749,26,0.731,0.175,0.267,0.000402,0.0858,-13.69,0.0302,94.203,4
+263,betty,folklore (deluxe version),Taylor Swift,2020-08-17,294521,30,0.544,0.59,0.379,0.0,0.0983,-8.717,0.0255,96.029,4
+264,peace,folklore (deluxe version),Taylor Swift,2020-08-17,234000,29,0.918,0.651,0.269,2.17e-05,0.0918,-12.912,0.0983,150.033,4
+265,hoax,folklore (deluxe version),Taylor Swift,2020-08-17,220042,26,0.966,0.662,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,4
+266,the lakes - bonus track,folklore (deluxe version),Taylor Swift,2020-08-17,211798,56,0.85,0.509,0.262,1.68e-06,0.0851,-11.531,0.0311,89.846,4
+267,the 1,folklore,Taylor Swift,2020-07-24,210251,77,0.757,0.777,0.357,7.28e-06,0.108,-6.942,0.0522,139.883,4
+268,cardigan,folklore,Taylor Swift,2020-07-24,239560,81,0.537,0.613,0.581,0.000345,0.25,-8.588,0.0424,130.033,4
+269,the last great american dynasty,folklore,Taylor Swift,2020-07-24,230999,72,0.467,0.686,0.662,0.0023,0.109,-8.505,0.0413,147.922,4
+270,exile (feat. Bon Iver),folklore,Taylor Swift,2020-07-24,285634,83,0.778,0.298,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,4
+271,my tears ricochet,folklore,Taylor Swift,2020-07-24,255893,74,0.806,0.456,0.263,0.0,0.0749,-10.63,0.0332,129.86,4
+272,mirrorball,folklore,Taylor Swift,2020-07-24,208977,72,0.687,0.553,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,4
+273,seven,folklore,Taylor Swift,2020-07-24,208906,71,0.9,0.596,0.488,2.7e-05,0.091,-10.769,0.0274,94.926,4
+274,august,folklore,Taylor Swift,2020-07-24,261922,80,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,4
+275,this is me trying,folklore,Taylor Swift,2020-07-24,195097,73,0.314,0.515,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,4
+276,illicit affairs,folklore,Taylor Swift,2020-07-24,190898,72,0.881,0.559,0.31,0.0,0.106,-10.445,0.0338,119.845,4
+277,invisible string,folklore,Taylor Swift,2020-07-24,252880,73,0.838,0.653,0.452,7.73e-05,0.108,-11.143,0.055,83.433,4
+278,mad woman,folklore,Taylor Swift,2020-07-24,237258,69,0.655,0.592,0.699,1.68e-05,0.114,-8.995,0.0471,141.916,4
+279,epiphany,folklore,Taylor Swift,2020-07-24,289749,68,0.731,0.354,0.267,0.000402,0.0858,-13.69,0.0281,94.219,4
+280,betty,folklore,Taylor Swift,2020-07-24,294521,73,0.6,0.593,0.377,0.0,0.0976,-8.761,0.0253,95.939,4
+281,peace,folklore,Taylor Swift,2020-07-24,234000,69,0.918,0.647,0.272,1.73e-05,0.0918,-12.906,0.0916,150.044,4
+282,hoax,folklore,Taylor Swift,2020-07-24,220042,68,0.966,0.662,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,4
+283,the 1,folklore,Taylor Swift,2020-07-24,210251,43,0.764,0.765,0.348,1.01e-05,0.108,-6.963,0.0579,140.015,4
+284,cardigan,folklore,Taylor Swift,2020-07-24,239560,52,0.537,0.613,0.581,0.000345,0.25,-8.588,0.0424,130.033,4
+285,the last great american dynasty,folklore,Taylor Swift,2020-07-24,230999,42,0.473,0.684,0.661,0.00215,0.109,-8.507,0.0407,147.909,4
+286,exile (feat. Bon Iver),folklore,Taylor Swift,2020-07-24,285634,55,0.778,0.298,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,4
+287,my tears ricochet,folklore,Taylor Swift,2020-07-24,255893,41,0.806,0.456,0.263,0.0,0.0749,-10.63,0.0332,129.86,4
+288,mirrorball,folklore,Taylor Swift,2020-07-24,208977,41,0.687,0.553,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,4
+289,seven,folklore,Taylor Swift,2020-07-24,208906,40,0.9,0.596,0.488,2.7e-05,0.091,-10.769,0.0274,94.926,4
+290,august,folklore,Taylor Swift,2020-07-24,261922,43,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,4
+291,this is me trying,folklore,Taylor Swift,2020-07-24,195097,46,0.314,0.515,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,4
+292,illicit affairs,folklore,Taylor Swift,2020-07-24,190898,41,0.881,0.559,0.31,0.0,0.106,-10.445,0.0338,119.845,4
+293,invisible string,folklore,Taylor Swift,2020-07-24,252880,42,0.838,0.653,0.452,7.73e-05,0.108,-11.143,0.055,83.433,4
+294,mad woman,folklore,Taylor Swift,2020-07-24,237258,40,0.649,0.596,0.709,9.92e-06,0.114,-8.938,0.0431,141.978,4
+295,epiphany,folklore,Taylor Swift,2020-07-24,289749,38,0.731,0.354,0.267,0.000402,0.0858,-13.69,0.0281,94.219,4
+296,betty,folklore,Taylor Swift,2020-07-24,294521,44,0.544,0.59,0.379,0.0,0.0983,-8.717,0.0255,96.029,4
+297,peace,folklore,Taylor Swift,2020-07-24,234000,47,0.918,0.651,0.269,2.17e-05,0.0918,-12.912,0.0983,150.033,4
+298,hoax,folklore,Taylor Swift,2020-07-24,220042,38,0.966,0.662,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,4
+299,I Forgot That You Existed,Lover,Taylor Swift,2019-08-23,170640,72,0.298,0.664,0.316,2.03e-06,0.0812,-10.345,0.519,92.875,4
+300,Cruel Summer,Lover,Taylor Swift,2019-08-23,178426,77,0.117,0.552,0.702,2.06e-05,0.105,-5.707,0.157,169.994,4
+301,Lover,Lover,Taylor Swift,2019-08-23,221306,81,0.492,0.359,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,4
+302,The Man,Lover,Taylor Swift,2019-08-23,190360,76,0.0767,0.777,0.658,0.0,0.0901,-5.191,0.054,110.048,4
+303,The Archer,Lover,Taylor Swift,2019-08-23,211240,70,0.12,0.292,0.574,0.00569,0.0663,-9.375,0.0401,124.344,4
+304,I Think He Knows,Lover,Taylor Swift,2019-08-23,173386,70,0.00889,0.897,0.366,0.000353,0.0715,-8.029,0.0569,100.003,4
+305,Miss Americana & The Heartbreak Prince,Lover,Taylor Swift,2019-08-23,234146,70,0.028,0.662,0.747,0.00615,0.138,-6.926,0.0736,150.088,4
+306,Paper Rings,Lover,Taylor Swift,2019-08-23,222400,77,0.0129,0.811,0.719,1.36e-05,0.0742,-6.553,0.0497,103.979,4
+307,Cornelia Street,Lover,Taylor Swift,2019-08-23,287266,71,0.781,0.824,0.624,0.000189,0.1,-9.728,0.0827,102.012,4
+308,Death By A Thousand Cuts,Lover,Taylor Swift,2019-08-23,198533,71,0.454,0.712,0.732,0.0,0.319,-6.754,0.0629,94.071,4
+309,London Boy,Lover,Taylor Swift,2019-08-23,190240,72,0.0246,0.695,0.71,0.000104,0.133,-6.639,0.05,157.925,4
+310,Soon You’ll Get Better (feat. The Chicks),Lover,Taylor Swift,2019-08-23,201586,66,0.907,0.433,0.182,0.0,0.123,-12.566,0.0641,207.476,4
+311,False God,Lover,Taylor Swift,2019-08-23,200306,68,0.736,0.739,0.32,0.000147,0.111,-10.862,0.239,79.97,4
+312,You Need To Calm Down,Lover,Taylor Swift,2019-08-23,171360,78,0.00929,0.771,0.671,0.0,0.0637,-5.617,0.0553,85.026,4
+313,Afterglow,Lover,Taylor Swift,2019-08-23,223293,74,0.13,0.756,0.449,0.0,0.114,-8.746,0.0344,111.011,4
+314,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,Taylor Swift,2019-08-23,193000,77,0.033,0.61,0.83,0.0,0.118,-4.105,0.0571,182.162,4
+315,It’s Nice To Have A Friend,Lover,Taylor Swift,2019-08-23,150440,65,0.971,0.737,0.175,0.000337,0.171,-9.912,0.0401,70.008,4
+316,Daylight,Lover,Taylor Swift,2019-08-23,293453,69,0.808,0.557,0.496,0.000173,0.0772,-9.602,0.0563,149.983,4
+317,...Ready For It? - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,207173,21,0.0155,0.606,0.814,0.264,0.193,-8.128,0.0716,160.004,4
+318,End Game - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,243826,16,0.000908,0.746,0.528,0.443,0.0713,-6.304,0.0449,159.043,4
+319,I Did Something Bad - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,238253,18,0.169,0.756,0.517,0.158,0.0588,-7.517,0.194,83.01,4
+320,Don't Blame Me - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,236413,20,0.211,0.55,0.456,0.532,0.0291,-7.122,0.038,135.843,4
+321,Delicate - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,232253,19,0.249,0.714,0.332,0.148,0.0649,-12.043,0.0505,94.999,4
+322,Look What You Made Me Do - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,211200,20,0.0228,0.764,0.373,0.224,0.112,-9.283,0.0546,127.966,4
+323,So It Goes... - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,227906,13,0.072,0.256,0.53,0.284,0.202,-10.173,0.045,76.84,4
+324,Gorgeous - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,209680,16,0.036,0.76,0.462,0.467,0.266,-7.646,0.0484,92.03,4
+325,Getaway Car - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,233626,19,0.00515,0.497,0.682,0.768,0.0923,-8.663,0.043,172.06,4
+326,King Of My Heart - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,214333,15,0.00256,0.64,0.622,0.00328,0.038,-9.626,0.0324,110.028,4
+327,Dancing With Our Hands Tied - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,211493,17,0.0844,0.426,0.529,0.0986,0.101,-7.953,0.17,75.958,4
+328,Dress - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,230386,15,0.0348,0.682,0.457,0.0205,0.217,-11.087,0.0387,120.029,4
+329,This Is Why We Can't Have Nice Things - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,205693,14,0.00927,0.594,0.757,0.000236,0.401,-5.384,0.0572,163.948,4
+330,Call It What You Want - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,202173,17,0.0943,0.594,0.454,0.705,0.755,-13.01,0.0401,164.028,4
+331,New Year's Day - Karaoke Version,Taylor Swift Karaoke: reputation,Taylor Swift,2018-03-09,235506,16,0.944,0.452,0.0639,2.91e-05,0.137,-16.349,0.0471,94.963,4
+332,...Ready For It?,reputation,Taylor Swift,2017-11-10,208186,74,0.0527,0.613,0.764,0.0,0.197,-6.509,0.136,160.015,4
+333,End Game,reputation,Taylor Swift,2017-11-10,244826,73,0.00845,0.649,0.589,0.0,0.108,-6.237,0.0558,159.073,4
+334,I Did Something Bad,reputation,Taylor Swift,2017-11-10,238253,74,0.0679,0.696,0.602,2.11e-05,0.0696,-6.156,0.159,82.989,4
+335,Don’t Blame Me,reputation,Taylor Swift,2017-11-10,236413,75,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,0.0386,135.917,4
+336,Delicate,reputation,Taylor Swift,2017-11-10,232253,78,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,4
+337,Look What You Made Me Do,reputation,Taylor Swift,2017-11-10,211853,78,0.204,0.766,0.709,1.41e-05,0.126,-6.471,0.123,128.07,4
+338,So It Goes...,reputation,Taylor Swift,2017-11-10,227906,66,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,4
+339,Gorgeous,reputation,Taylor Swift,2017-11-10,209680,73,0.0713,0.8,0.535,9.48e-06,0.213,-6.684,0.135,92.027,4
+340,Getaway Car,reputation,Taylor Swift,2017-11-10,233626,77,0.00465,0.562,0.689,2.23e-06,0.0888,-6.745,0.127,172.054,4
+341,King Of My Heart,reputation,Taylor Swift,2017-11-10,214320,70,0.00882,0.675,0.703,2.21e-06,0.0391,-7.902,0.0382,110.01,4
+342,Dancing With Our Hands Tied,reputation,Taylor Swift,2017-11-10,211506,69,0.0604,0.624,0.691,1.1e-05,0.138,-6.686,0.196,160.024,4
+343,Dress,reputation,Taylor Swift,2017-11-10,230373,71,0.0329,0.719,0.469,0.0,0.169,-8.792,0.0533,120.085,4
+344,This Is Why We Can't Have Nice Things,reputation,Taylor Swift,2017-11-10,207133,69,0.0156,0.567,0.789,0.0,0.382,-5.986,0.115,163.96,4
+345,Call It What You Want,reputation,Taylor Swift,2017-11-10,203506,72,0.186,0.598,0.504,0.000221,0.34,-9.874,0.0731,163.954,4
+346,New Year’s Day,reputation,Taylor Swift,2017-11-10,235466,68,0.921,0.661,0.151,0.0,0.13,-12.864,0.0354,94.922,4
+347,…Ready For It? - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,79663,22,0.944,0.741,0.347,0.0,0.251,-12.118,0.941,67.303,4
+348,...Ready For It?,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,208186,43,0.0527,0.613,0.764,0.0,0.197,-6.509,0.136,160.015,4
+349,End Game - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,101121,22,0.943,0.635,0.245,0.0,0.132,-12.614,0.942,172.909,4
+350,End Game,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,244826,39,0.00845,0.649,0.589,0.0,0.108,-6.237,0.0558,159.073,4
+351,I Did Something Bad - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,84222,22,0.825,0.736,0.327,0.0,0.19,-10.994,0.892,98.753,3
+352,I Did Something Bad,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,238253,39,0.0679,0.696,0.602,2.11e-05,0.0696,-6.156,0.159,82.989,4
+353,Don't Blame Me - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,109436,24,0.915,0.646,0.287,0.0,0.208,-11.839,0.943,86.424,3
+354,Don’t Blame Me,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,236413,38,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,0.0386,135.917,4
+355,Delicate - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,144707,21,0.972,0.647,0.236,0.0,0.201,-11.896,0.943,85.319,4
+356,Delicate,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,232253,50,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,4
+357,Look What You Made Me Do - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,51096,22,0.916,0.763,0.378,0.0,0.248,-11.809,0.957,77.411,4
+358,Look What You Made Me Do,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,211853,55,0.204,0.766,0.709,1.41e-05,0.126,-6.471,0.123,128.07,4
+359,So It Goes… - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,122847,21,0.861,0.728,0.318,0.0,0.152,-11.377,0.948,123.703,4
+360,So It Goes...,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,227906,29,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,4
+361,Gorgeous - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,79663,21,0.95,0.655,0.242,0.0,0.161,-12.29,0.942,76.531,4
+362,Gorgeous,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,209680,46,0.0713,0.8,0.535,9.48e-06,0.213,-6.684,0.135,92.027,4
+363,Getaway Car - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,165897,21,0.976,0.718,0.177,0.0,0.157,-14.138,0.945,129.971,3
+364,Getaway Car,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,233626,38,0.00465,0.562,0.689,2.23e-06,0.0888,-6.745,0.127,172.054,4
+365,King Of My Heart - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,56461,21,0.94,0.707,0.346,0.0,0.14,-11.991,0.945,83.407,3
+366,King Of My Heart,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,214320,33,0.00882,0.675,0.703,2.21e-06,0.0391,-7.902,0.0382,110.01,4
+367,Dancing With Our Hands Tied - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,117214,21,0.941,0.719,0.281,0.0,0.284,-12.218,0.951,129.863,4
+368,Dancing With Our Hands Tied,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,211506,33,0.0604,0.624,0.691,1.1e-05,0.138,-6.686,0.196,160.024,4
+369,Dress - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,108631,21,0.955,0.692,0.312,0.0,0.0914,-12.316,0.949,100.283,1
+370,Dress,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,230373,32,0.0329,0.719,0.469,0.0,0.169,-8.792,0.0533,120.085,4
+371,This Is Why We Can't Have Nice Things - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,175419,21,0.983,0.72,0.207,0.0,0.252,-12.672,0.927,130.302,3
+372,This Is Why We Can't Have Nice Things,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,207133,31,0.0156,0.567,0.789,0.0,0.382,-5.986,0.115,163.96,4
+373,Call It What You Want - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,81004,21,0.947,0.736,0.339,0.0,0.109,-12.422,0.926,68.253,4
+374,Call It What You Want,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,203506,38,0.186,0.598,0.504,0.000221,0.34,-9.874,0.0731,163.954,4
+375,New Year's Day - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,167909,21,0.982,0.719,0.158,0.0,0.257,-13.859,0.946,130.315,3
+376,New Year’s Day,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,235466,31,0.921,0.661,0.151,0.0,0.13,-12.864,0.0354,94.922,4
+377,Radio Outro - Commentary,reputation (Big Machine Radio Release Special),Taylor Swift,2017-11-10,101791,21,0.952,0.774,0.298,0.0,0.147,-12.472,0.954,69.091,1
+378,All Too Well,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,329160,47,0.0448,0.602,0.605,0.000334,0.128,-7.803,0.0244,93.061,4
+379,Wildest Dreams,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,220440,45,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+380,The Best Day,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,246306,36,0.639,0.669,0.448,4.06e-06,0.158,-8.566,0.0285,126.068,4
+381,Red,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,223093,41,0.0779,0.605,0.899,0.000125,0.0911,-4.273,0.0423,124.985,4
+382,Holy Ground,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,202960,37,0.0162,0.627,0.816,0.00208,0.0965,-6.698,0.0774,157.043,4
+383,Teardrops On My Guitar - Radio Single Remix,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,204706,38,0.313,0.626,0.427,0.0,0.138,-6.993,0.0234,99.959,4
+384,Our Song,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,203440,39,0.114,0.545,0.663,0.0,0.321,-5.05,0.0363,178.013,4
+385,22,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,232120,42,0.00254,0.66,0.733,0.00146,0.0473,-6.564,0.0379,104.009,4
+386,I Knew You Were Trouble.,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,219720,44,0.00476,0.536,0.464,2.67e-06,0.0357,-6.761,0.0412,77.318,4
+387,I Don’t Wanna Live Forever (Fifty Shades Darker),reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,247160,79,0.0586,0.731,0.445,1.96e-05,0.14,-8.418,0.0533,117.97,4
+388,Mean,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,238693,39,0.451,0.576,0.754,0.0,0.223,-3.982,0.0428,163.886,4
+389,How You Get The Girl,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,247533,38,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+390,So It Goes...,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,227906,47,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,4
+391,Fifteen,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,295320,36,0.0717,0.55,0.628,0.0,0.138,-4.437,0.0269,95.122,4
+392,Mine,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,231866,44,0.00302,0.621,0.779,3.22e-06,0.187,-2.943,0.0301,121.034,4
+393,Sparks Fly,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,262920,38,0.041,0.61,0.782,0.0,0.16,-2.98,0.0309,114.977,4
+394,State Of Grace,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,295720,35,0.000184,0.591,0.828,0.00113,0.0879,-5.895,0.0333,129.962,4
+395,Haunted,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,245413,36,0.0648,0.431,0.949,0.0,0.0612,-2.622,0.0605,162.012,4
+396,Never Grow Up,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,292920,34,0.824,0.714,0.309,0.0,0.136,-8.828,0.0302,124.894,4
+397,Treacherous,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,242760,34,0.101,0.704,0.621,4.3e-06,0.14,-8.086,0.0334,109.995,4
+398,Babe,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,215106,37,0.0221,0.577,0.784,0.0,0.125,-3.266,0.101,171.791,4
+399,Welcome To New York,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,212600,36,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+400,Fearless,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,242973,35,0.0377,0.603,0.718,0.0,0.307,-4.401,0.0272,100.163,4
+401,Enchanted,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,353253,58,0.0717,0.535,0.626,0.00127,0.158,-3.895,0.0274,81.963,4
+402,Change,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,281053,33,0.00418,0.543,0.763,0.0,0.111,-4.206,0.0376,96.006,4
+403,Ours,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,239346,44,0.469,0.61,0.56,0.0,0.087,-7.392,0.0279,159.837,4
+404,Out Of The Woods,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,235800,38,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+405,Come Back...Be Here,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,223920,36,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,4
+406,A Place in this World,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,202080,33,0.0577,0.573,0.767,0.0,0.327,-2.929,0.0323,114.984,4
+407,This Love,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,250093,34,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+408,The Lucky One,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,240266,34,0.0352,0.706,0.505,0.0,0.13,-7.639,0.0358,117.935,4
+409,Invisible,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,205853,32,0.56,0.609,0.383,0.0,0.165,-5.732,0.0243,96.005,4
+410,Breathe,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,264946,34,0.416,0.442,0.48,0.0,0.129,-7.405,0.0281,73.849,4
+411,Better Man,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,263613,47,0.123,0.502,0.843,0.0,0.0974,-3.648,0.0378,143.944,4
+412,Jump Then Fall,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,238093,32,0.113,0.617,0.699,0.0,0.074,-5.712,0.0274,80.007,4
+413,Begin Again,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,239426,35,0.199,0.53,0.526,3.52e-06,0.14,-8.349,0.0263,79.025,4
+414,Tied Together with a Smile,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,251213,31,0.521,0.479,0.547,0.0,0.0728,-4.948,0.0275,146.147,4
+415,The Story Of Us,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,267653,37,0.00556,0.547,0.808,0.000304,0.0587,-3.63,0.0398,139.908,4
+416,Forever & Always,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,226293,33,0.0806,0.607,0.829,0.0,0.207,-5.02,0.0588,128.057,4
+417,Hey Stephen,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,256040,32,0.191,0.843,0.541,1.85e-06,0.108,-7.361,0.0318,116.001,4
+418,Speak Now,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,243346,35,0.0991,0.712,0.603,0.0,0.102,-3.753,0.0304,118.986,4
+419,Wonderland,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,245560,37,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,4
+420,White Horse,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,235400,34,0.314,0.578,0.348,0.0,0.1,-8.066,0.0257,92.673,4
+421,I'm Only Me When I'm With You,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,215600,33,0.00454,0.556,0.933,0.000469,0.101,-3.685,0.072,143.936,4
+422,Starlight,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,220600,33,0.0192,0.649,0.777,0.000487,0.234,-5.797,0.0391,126.014,4
+423,I Know Places,reputation Stadium Tour Surprise Song Playlist,Taylor Swift,2017-11-09,195706,34,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+424,Welcome To New York - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,209388,14,0.0471,0.823,0.635,0.188,0.348,-6.293,0.0465,116.989,4
+425,Blank Space - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,228598,19,0.0381,0.605,0.69,0.00943,0.113,-4.914,0.0522,191.998,4
+426,Style - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,230303,19,0.000585,0.57,0.841,0.821,0.104,-6.12,0.0312,94.996,4
+427,Out Of The Woods - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,233608,16,2.71e-05,0.49,0.924,0.804,0.408,-6.497,0.0344,92.021,4
+428,All You Had To Do Was Stay - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,191582,13,0.000201,0.628,0.716,0.052,0.209,-6.377,0.0346,97.01,4
+429,Shake It Off - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,217567,17,0.00154,0.705,0.829,0.853,0.462,-6.105,0.0977,160.029,4
+430,I Wish You Would - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,204915,12,0.000811,0.591,0.944,0.512,0.135,-6.179,0.0432,117.991,4
+431,Bad Blood - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,209842,13,0.0399,0.66,0.838,0.00186,0.238,-6.765,0.103,170.003,4
+432,Wildest Dreams - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,218705,19,0.0909,0.544,0.586,0.818,0.139,-10.553,0.0348,140.09,4
+433,How You Get The Girl - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,245420,12,0.000133,0.731,0.624,0.829,0.0811,-7.092,0.0457,120.012,4
+434,This Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,247166,11,0.669,0.482,0.397,0.833,0.0899,-10.138,0.0285,143.962,4
+435,I Know Places - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,193811,12,0.0112,0.64,0.713,0.0126,0.64,-6.634,0.0606,80.014,4
+436,Clean - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,269207,13,0.241,0.856,0.371,0.819,0.111,-9.921,0.0425,103.999,4
+437,Wonderland - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,242409,11,0.00557,0.464,0.561,0.6,0.108,-6.741,0.0314,184.048,4
+438,You Are In Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,266003,11,0.806,0.448,0.424,0.781,0.0946,-12.148,0.038,84.923,4
+439,New Romantics - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2015-02-01,227743,15,0.000636,0.61,0.95,0.304,0.273,-4.936,0.047,121.995,4
+440,Welcome To New York,1989,Taylor Swift,2014-10-27,212600,30,0.038,0.793,0.634,1.76e-06,0.304,-4.807,0.0324,117.023,4
+441,Blank Space,1989,Taylor Swift,2014-10-27,231826,35,0.085,0.752,0.678,1.64e-06,0.13,-5.421,0.0646,96.009,4
+442,Style,1989,Taylor Swift,2014-10-27,231000,33,0.00256,0.598,0.786,0.00143,0.117,-5.572,0.0382,95.021,4
+443,Out Of The Woods,1989,Taylor Swift,2014-10-27,235800,25,0.00103,0.552,0.841,1.23e-05,0.337,-6.938,0.0372,91.993,4
+444,All You Had To Do Was Stay,1989,Taylor Swift,2014-10-27,193293,27,0.00196,0.602,0.735,4.77e-05,0.105,-5.778,0.0337,96.969,4
+445,Shake It Off,1989,Taylor Swift,2014-10-27,219200,45,0.0561,0.648,0.785,0.0,0.148,-5.414,0.165,160.02,4
+446,I Wish You Would,1989,Taylor Swift,2014-10-27,207440,26,0.016,0.649,0.898,9.9e-05,0.109,-5.963,0.0511,118.027,4
+447,Bad Blood,1989,Taylor Swift,2014-10-27,211933,31,0.0871,0.652,0.802,6.45e-06,0.148,-6.114,0.181,170.157,4
+448,Wildest Dreams,1989,Taylor Swift,2014-10-27,220440,30,0.0709,0.553,0.664,0.0056,0.106,-7.417,0.0741,140.06,4
+449,How You Get The Girl,1989,Taylor Swift,2014-10-27,247533,27,0.00463,0.764,0.659,0.00458,0.0915,-6.136,0.0492,119.982,4
+450,This Love,1989,Taylor Swift,2014-10-27,250093,24,0.635,0.485,0.459,0.0,0.101,-8.768,0.0337,71.981,4
+451,I Know Places,1989,Taylor Swift,2014-10-27,195706,24,0.231,0.595,0.763,0.0,0.2,-4.991,0.0661,159.959,4
+452,Clean,1989,Taylor Swift,2014-10-27,271000,25,0.242,0.81,0.38,0.0,0.113,-7.755,0.035,103.981,4
+453,Welcome To New York,1989,Taylor Swift,2014-10-27,212600,61,0.038,0.793,0.634,1.76e-06,0.304,-4.807,0.0324,117.023,4
+454,Blank Space,1989,Taylor Swift,2014-10-27,231826,75,0.085,0.752,0.678,1.64e-06,0.13,-5.421,0.0646,96.009,4
+455,Style,1989,Taylor Swift,2014-10-27,231000,69,0.00256,0.598,0.786,0.00143,0.117,-5.572,0.0382,95.021,4
+456,Out Of The Woods,1989,Taylor Swift,2014-10-27,235800,63,0.00103,0.552,0.841,1.23e-05,0.337,-6.938,0.0372,91.993,4
+457,All You Had To Do Was Stay,1989,Taylor Swift,2014-10-27,193293,61,0.00196,0.602,0.735,4.77e-05,0.105,-5.778,0.0337,96.969,4
+458,Shake It Off,1989,Taylor Swift,2014-10-27,219200,72,0.0561,0.648,0.785,0.0,0.148,-5.414,0.165,160.02,4
+459,I Wish You Would,1989,Taylor Swift,2014-10-27,207440,53,0.016,0.649,0.898,9.9e-05,0.109,-5.963,0.0511,118.027,4
+460,Bad Blood,1989,Taylor Swift,2014-10-27,211933,65,0.0871,0.652,0.802,6.45e-06,0.148,-6.114,0.181,170.157,4
+461,Wildest Dreams,1989,Taylor Swift,2014-10-27,220440,74,0.0709,0.553,0.664,0.0056,0.106,-7.417,0.0741,140.06,4
+462,How You Get The Girl,1989,Taylor Swift,2014-10-27,247533,54,0.00463,0.764,0.659,0.00458,0.0915,-6.136,0.0492,119.982,4
+463,This Love,1989,Taylor Swift,2014-10-27,250093,52,0.635,0.485,0.459,0.0,0.101,-8.768,0.0337,71.981,4
+464,I Know Places,1989,Taylor Swift,2014-10-27,195706,52,0.231,0.595,0.763,0.0,0.2,-4.991,0.0661,159.959,4
+465,Clean,1989,Taylor Swift,2014-10-27,271000,54,0.242,0.81,0.38,0.0,0.113,-7.755,0.035,103.981,4
+466,Welcome to New York - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,104533,21,0.839,0.627,0.226,0.0,0.286,-15.595,0.95,77.502,3
+467,Welcome To New York,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,212600,38,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+468,Blank Space - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,90066,21,0.827,0.684,0.272,0.0,0.209,-15.652,0.887,100.356,3
+469,Blank Space,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,231826,56,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+470,Style - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,62377,21,0.68,0.646,0.337,0.0,0.247,-14.97,0.926,88.155,1
+471,Style,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,231000,48,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+472,Out Of The Woods - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,106992,20,0.732,0.663,0.24,0.0,0.19,-15.988,0.93,93.705,4
+473,Out Of The Woods,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,235800,36,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+474,All You Had To Do Was Stay - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,69477,20,0.74,0.7,0.223,0.0,0.726,-14.542,0.875,105.468,4
+475,All You Had To Do Was Stay,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,193293,36,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,4
+476,Shake It Off - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,98494,20,0.772,0.729,0.278,0.0,0.199,-15.463,0.935,87.915,1
+477,Shake It Off,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,219200,58,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,4
+478,I Wish You Would - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,89648,20,0.796,0.627,0.266,0.0,0.292,-15.426,0.929,79.281,4
+479,I Wish You Would,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,207440,29,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,4
+480,Bad Blood - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,81498,21,0.854,0.627,0.312,0.0,0.153,-14.772,0.927,81.512,3
+481,Bad Blood,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,211933,44,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,4
+482,Wildest Dreams - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,77876,20,0.849,0.755,0.247,0.0,0.363,-14.931,0.891,86.883,4
+483,Wildest Dreams,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,220440,48,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+484,How You Get The Girl - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,72860,20,0.824,0.752,0.368,0.0,0.671,-15.081,0.925,79.214,1
+485,How You Get The Girl,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,247533,31,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+486,This Love - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,79896,20,0.828,0.736,0.323,0.0,0.262,-15.49,0.934,78.761,1
+487,This Love,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,250093,30,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+488,I Know Places - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,79269,20,0.745,0.742,0.29,0.0,0.212,-15.169,0.921,113.854,3
+489,I Know Places,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,195706,29,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+490,Clean - Commentary,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,146696,20,0.844,0.685,0.28,0.0,0.316,-16.219,0.895,99.561,1
+491,Clean,1989 (Big Machine Radio Release Special),Taylor Swift,2014-10-27,271000,32,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,4
+492,Welcome To New York - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,210453,0,0.0628,0.823,0.68,0.281,0.357,-5.815,0.0464,117.022,4
+493,Blank Space - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,228826,0,0.0371,0.603,0.708,0.015,0.0991,-4.515,0.0527,191.992,4
+494,Style - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,230533,0,0.000529,0.501,0.845,0.884,0.102,-5.713,0.0345,94.92,4
+495,Out Of The Woods - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,233826,0,2.86e-05,0.471,0.93,0.807,0.41,-6.125,0.0388,92.025,4
+496,All You Had To Do Was Stay - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,191813,0,0.000199,0.629,0.731,0.0364,0.236,-5.973,0.0338,96.985,4
+497,Shake It Off - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,217800,0,0.0015,0.704,0.835,0.827,0.502,-5.708,0.1,159.995,4
+498,I Wish You Would - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,205133,0,0.000745,0.588,0.94,0.406,0.212,-5.778,0.0435,117.977,4
+499,Bad Blood - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,210080,1,0.0401,0.667,0.849,0.00274,0.217,-6.367,0.0959,170.057,4
+500,Wildest Dreams - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,218920,1,0.0708,0.547,0.609,0.887,0.136,-10.103,0.0352,140.034,4
+501,How You Get The Girl - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,245653,0,0.000148,0.733,0.648,0.842,0.0865,-6.708,0.0431,119.976,4
+502,This Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,247386,0,0.684,0.484,0.4,0.83,0.0901,-9.727,0.0288,144.014,4
+503,I Know Places - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,194040,0,0.0106,0.622,0.732,0.0137,0.559,-6.14,0.0564,160.064,4
+504,Clean - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,269440,0,0.257,0.854,0.385,0.878,0.11,-9.492,0.0404,103.993,4
+505,Wonderland - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,243133,1,0.00463,0.453,0.534,0.362,0.131,-6.798,0.0292,184.026,4
+506,You Are In Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,266186,1,0.815,0.32,0.43,0.774,0.0952,-12.272,0.046,169.956,4
+507,New Romantics - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe Edition),Taylor Swift,2014-10-27,230013,3,0.000591,0.613,0.945,0.368,0.133,-4.945,0.0484,121.989,4
+508,Welcome To New York - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,209388,0,0.0471,0.823,0.635,0.188,0.348,-6.293,0.0465,116.989,4
+509,Blank Space - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,228598,0,0.0381,0.605,0.69,0.00943,0.113,-4.914,0.0522,191.998,4
+510,Style - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,230303,1,0.000585,0.57,0.841,0.821,0.104,-6.12,0.0312,94.996,4
+511,Out Of The Woods - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,233608,0,2.71e-05,0.49,0.924,0.804,0.408,-6.497,0.0344,92.021,4
+512,All You Had To Do Was Stay - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,191582,0,0.000201,0.628,0.716,0.052,0.209,-6.377,0.0346,97.01,4
+513,Shake It Off - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,217567,0,0.00154,0.705,0.829,0.853,0.462,-6.105,0.0977,160.029,4
+514,I Wish You Would - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,204915,0,0.000811,0.591,0.944,0.512,0.135,-6.179,0.0432,117.991,4
+515,Bad Blood - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,209842,0,0.0399,0.66,0.838,0.00186,0.238,-6.765,0.103,170.003,4
+516,Wildest Dreams - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,218705,0,0.0909,0.544,0.586,0.818,0.139,-10.553,0.0348,140.09,4
+517,How You Get The Girl - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,245420,0,0.000133,0.731,0.624,0.829,0.0811,-7.092,0.0457,120.012,4
+518,This Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,247166,0,0.669,0.482,0.397,0.833,0.0899,-10.138,0.0285,143.962,4
+519,I Know Places - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,193811,0,0.0112,0.64,0.713,0.0126,0.64,-6.634,0.0606,80.014,4
+520,Clean - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,269207,0,0.241,0.856,0.371,0.819,0.111,-9.921,0.0425,103.999,4
+521,Wonderland - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,242409,0,0.00557,0.464,0.561,0.6,0.108,-6.741,0.0314,184.048,4
+522,You Are In Love - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,266003,0,0.806,0.448,0.424,0.781,0.0946,-12.148,0.038,84.923,4
+523,New Romantics - Karaoke Version,Taylor Swift Karaoke: 1989 (Deluxe),Taylor Swift,2014-10-27,227743,1,0.000636,0.61,0.95,0.304,0.273,-4.936,0.047,121.995,4
+524,Welcome To New York - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,210453,9,0.0628,0.823,0.68,0.281,0.357,-5.815,0.0464,117.022,4
+525,Blank Space - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,228826,13,0.0371,0.603,0.708,0.015,0.0991,-4.515,0.0527,191.992,4
+526,Style - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,230533,12,0.000529,0.501,0.845,0.884,0.102,-5.713,0.0345,94.92,4
+527,Out Of The Woods - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,233826,11,2.86e-05,0.471,0.93,0.807,0.41,-6.125,0.0388,92.025,4
+528,All You Had To Do Was Stay - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,191813,8,0.000199,0.629,0.731,0.0364,0.236,-5.973,0.0338,96.985,4
+529,Shake It Off - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,217800,11,0.0015,0.704,0.835,0.827,0.502,-5.708,0.1,159.995,4
+530,I Wish You Would - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,205133,7,0.000745,0.588,0.94,0.406,0.212,-5.778,0.0435,117.977,4
+531,Bad Blood - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,210080,10,0.0401,0.667,0.849,0.00274,0.217,-6.367,0.0959,170.057,4
+532,Wildest Dreams - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,218920,12,0.0708,0.547,0.609,0.887,0.136,-10.103,0.0352,140.034,4
+533,How You Get The Girl - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,245653,7,0.000148,0.733,0.648,0.842,0.0865,-6.708,0.0431,119.976,4
+534,This Love - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,247386,7,0.684,0.484,0.4,0.83,0.0901,-9.727,0.0288,144.014,4
+535,I Know Places - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,194040,7,0.0106,0.622,0.732,0.0137,0.559,-6.14,0.0564,160.064,4
+536,Clean - Karaoke Version,Taylor Swift Karaoke: 1989,Taylor Swift,2014-10-27,271373,9,0.257,0.854,0.385,0.878,0.106,-9.492,0.0404,103.994,4
+537,Welcome To New York,1989 (Deluxe Edition),Taylor Swift,2014-10-27,212600,56,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+538,Blank Space,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231826,62,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+539,Style,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231000,62,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+540,Out Of The Woods,1989 (Deluxe Edition),Taylor Swift,2014-10-27,235800,61,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+541,All You Had To Do Was Stay,1989 (Deluxe Edition),Taylor Swift,2014-10-27,193293,58,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,4
+542,Shake It Off,1989 (Deluxe Edition),Taylor Swift,2014-10-27,219200,58,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,4
+543,I Wish You Would,1989 (Deluxe Edition),Taylor Swift,2014-10-27,207440,59,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,4
+544,Bad Blood,1989 (Deluxe Edition),Taylor Swift,2014-10-27,211933,56,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,4
+545,Wildest Dreams,1989 (Deluxe Edition),Taylor Swift,2014-10-27,220440,59,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+546,How You Get The Girl,1989 (Deluxe Edition),Taylor Swift,2014-10-27,247533,60,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+547,This Love,1989 (Deluxe Edition),Taylor Swift,2014-10-27,250093,58,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+548,I Know Places,1989 (Deluxe Edition),Taylor Swift,2014-10-27,195706,59,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+549,Clean,1989 (Deluxe Edition),Taylor Swift,2014-10-27,271000,62,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,4
+550,Wonderland,1989 (Deluxe Edition),Taylor Swift,2014-10-27,245560,63,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,4
+551,You Are In Love,1989 (Deluxe Edition),Taylor Swift,2014-10-27,267106,61,0.707,0.474,0.48,0.000108,0.0903,-8.894,0.0622,170.109,4
+552,New Romantics,1989 (Deluxe Edition),Taylor Swift,2014-10-27,230466,66,0.00463,0.633,0.889,0.000458,0.0658,-5.87,0.0715,121.956,4
+553,I Know Places - Voice Memo,1989 (Deluxe Edition),Taylor Swift,2014-10-27,216333,43,0.829,0.592,0.128,0.0,0.527,-17.932,0.589,78.828,4
+554,I Wish You Would - Voice Memo,1989 (Deluxe Edition),Taylor Swift,2014-10-27,107133,41,0.717,0.781,0.357,0.0,0.185,-16.394,0.912,118.317,4
+555,Blank Space - Voice Memo,1989 (Deluxe Edition),Taylor Swift,2014-10-27,131186,41,0.801,0.675,0.234,0.0,0.657,-15.064,0.721,127.296,4
+556,Welcome To New York,1989 (Deluxe),Taylor Swift,2014-10-27,212600,23,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+557,Blank Space,1989 (Deluxe),Taylor Swift,2014-10-27,231826,29,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+558,Style,1989 (Deluxe),Taylor Swift,2014-10-27,231000,26,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+559,Out Of The Woods,1989 (Deluxe),Taylor Swift,2014-10-27,235800,22,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+560,All You Had To Do Was Stay,1989 (Deluxe),Taylor Swift,2014-10-27,193293,21,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,4
+561,Shake It Off,1989 (Deluxe),Taylor Swift,2014-10-27,219200,33,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,4
+562,I Wish You Would,1989 (Deluxe),Taylor Swift,2014-10-27,207440,20,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,4
+563,Bad Blood,1989 (Deluxe),Taylor Swift,2014-10-27,211933,28,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,4
+564,Wildest Dreams,1989 (Deluxe),Taylor Swift,2014-10-27,220440,22,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+565,How You Get The Girl,1989 (Deluxe),Taylor Swift,2014-10-27,247533,21,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+566,This Love,1989 (Deluxe),Taylor Swift,2014-10-27,250093,19,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+567,I Know Places,1989 (Deluxe),Taylor Swift,2014-10-27,195706,18,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+568,Clean,1989 (Deluxe),Taylor Swift,2014-10-27,271000,19,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,4
+569,Wonderland,1989 (Deluxe),Taylor Swift,2014-10-27,245560,24,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,4
+570,You Are In Love,1989 (Deluxe),Taylor Swift,2014-10-27,267106,23,0.707,0.474,0.48,0.000108,0.0903,-8.894,0.0622,170.109,4
+571,New Romantics,1989 (Deluxe),Taylor Swift,2014-10-27,230466,40,0.00463,0.633,0.889,0.000458,0.0658,-5.87,0.0715,121.956,4
+572,I Know Places - Voice Memo,1989 (Deluxe),Taylor Swift,2014-10-27,216333,0,0.829,0.592,0.128,0.0,0.527,-17.932,0.589,78.828,4
+573,I Wish You Would - Voice Memo,1989 (Deluxe),Taylor Swift,2014-10-27,107133,0,0.717,0.781,0.357,0.0,0.185,-16.394,0.912,118.317,4
+574,Blank Space - Voice Memo,1989 (Deluxe),Taylor Swift,2014-10-27,131186,0,0.801,0.675,0.234,0.0,0.657,-15.064,0.721,127.296,4
+575,Welcome To New York,1989 (Deluxe Edition),Taylor Swift,2014-10-27,212600,7,0.038,0.793,0.634,1.76e-06,0.304,-4.807,0.0324,117.023,4
+576,Blank Space,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231826,11,0.085,0.752,0.678,1.64e-06,0.13,-5.421,0.0646,96.009,4
+577,Style,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231000,13,0.00256,0.598,0.786,0.00143,0.117,-5.572,0.0382,95.021,4
+578,Out Of The Woods,1989 (Deluxe Edition),Taylor Swift,2014-10-27,235800,8,0.00103,0.552,0.841,1.23e-05,0.337,-6.938,0.0372,91.993,4
+579,All You Had To Do Was Stay,1989 (Deluxe Edition),Taylor Swift,2014-10-27,193293,7,0.00196,0.602,0.735,4.77e-05,0.105,-5.778,0.0337,96.969,4
+580,Shake It Off,1989 (Deluxe Edition),Taylor Swift,2014-10-27,219200,20,0.0561,0.648,0.785,0.0,0.148,-5.414,0.165,160.02,4
+581,I Wish You Would,1989 (Deluxe Edition),Taylor Swift,2014-10-27,207440,7,0.016,0.649,0.898,9.9e-05,0.109,-5.963,0.0511,118.027,4
+582,Bad Blood,1989 (Deluxe Edition),Taylor Swift,2014-10-27,211933,8,0.0871,0.652,0.802,6.45e-06,0.148,-6.114,0.181,170.157,4
+583,Wildest Dreams,1989 (Deluxe Edition),Taylor Swift,2014-10-27,220440,14,0.0709,0.553,0.664,0.0056,0.106,-7.417,0.0741,140.06,4
+584,How You Get The Girl,1989 (Deluxe Edition),Taylor Swift,2014-10-27,247533,7,0.00463,0.764,0.659,0.00458,0.0915,-6.136,0.0492,119.982,4
+585,This Love,1989 (Deluxe Edition),Taylor Swift,2014-10-27,250093,7,0.635,0.485,0.459,0.0,0.101,-8.768,0.0337,71.981,4
+586,I Know Places,1989 (Deluxe Edition),Taylor Swift,2014-10-27,195706,6,0.231,0.595,0.763,0.0,0.2,-4.991,0.0661,159.959,4
+587,Clean,1989 (Deluxe Edition),Taylor Swift,2014-10-27,271000,7,0.242,0.81,0.38,0.0,0.113,-7.755,0.035,103.981,4
+588,Wonderland,1989 (Deluxe Edition),Taylor Swift,2014-10-27,245560,8,0.0455,0.425,0.7,4.57e-05,0.174,-5.45,0.0481,183.886,4
+589,New Romantics,1989 (Deluxe Edition),Taylor Swift,2014-10-27,230453,12,0.00633,0.634,0.885,0.000205,0.0566,-5.844,0.0721,121.956,4
+590,Welcome To New York,1989,Taylor Swift,2014-01-01,212600,63,0.038,0.793,0.634,1.76e-06,0.304,-4.807,0.0324,117.023,4
+591,Blank Space,1989,Taylor Swift,2014-01-01,231826,66,0.085,0.752,0.678,1.64e-06,0.13,-5.421,0.0646,96.009,4
+592,Style,1989,Taylor Swift,2014-01-01,231000,60,0.00256,0.598,0.786,0.00143,0.117,-5.572,0.0382,95.021,4
+593,Out Of The Woods,1989,Taylor Swift,2014-01-01,235800,54,0.00103,0.552,0.841,1.23e-05,0.337,-6.938,0.0372,91.993,4
+594,All You Had To Do Was Stay,1989,Taylor Swift,2014-01-01,193293,62,0.00196,0.602,0.735,4.77e-05,0.105,-5.778,0.0337,96.969,4
+595,Shake It Off,1989,Taylor Swift,2014-01-01,219200,58,0.0561,0.648,0.785,0.0,0.148,-5.414,0.165,160.02,4
+596,I Wish You Would,1989,Taylor Swift,2014-01-01,207440,49,0.016,0.649,0.898,9.9e-05,0.109,-5.963,0.0511,118.027,4
+597,Bad Blood,1989,Taylor Swift,2014-01-01,211933,70,0.0871,0.652,0.802,6.45e-06,0.148,-6.114,0.181,170.157,4
+598,Wildest Dreams,1989,Taylor Swift,2014-01-01,220440,81,0.0709,0.553,0.664,0.0056,0.106,-7.417,0.0741,140.06,4
+599,How You Get The Girl,1989,Taylor Swift,2014-01-01,247533,50,0.00463,0.764,0.659,0.00458,0.0915,-6.136,0.0492,119.982,4
+600,This Love,1989,Taylor Swift,2014-01-01,250093,49,0.635,0.485,0.459,0.0,0.101,-8.768,0.0337,71.981,4
+601,I Know Places,1989,Taylor Swift,2014-01-01,195706,57,0.231,0.595,0.763,0.0,0.2,-4.991,0.0661,159.959,4
+602,Clean,1989,Taylor Swift,2014-01-01,271000,50,0.242,0.81,0.38,0.0,0.113,-7.755,0.035,103.981,4
+603,Welcome To New York,1989 (Deluxe),Taylor Swift,2014-01-01,212600,58,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+604,Blank Space,1989 (Deluxe),Taylor Swift,2014-01-01,231826,82,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+605,Style,1989 (Deluxe),Taylor Swift,2014-01-01,231000,75,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+606,Out Of The Woods,1989 (Deluxe),Taylor Swift,2014-01-01,235800,68,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+607,All You Had To Do Was Stay,1989 (Deluxe),Taylor Swift,2014-01-01,193293,59,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,4
+608,Shake It Off,1989 (Deluxe),Taylor Swift,2014-01-01,219200,80,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,4
+609,I Wish You Would,1989 (Deluxe),Taylor Swift,2014-01-01,207440,60,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,4
+610,Bad Blood,1989 (Deluxe),Taylor Swift,2014-01-01,211933,59,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,4
+611,Wildest Dreams,1989 (Deluxe),Taylor Swift,2014-01-01,220440,61,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+612,How You Get The Girl,1989 (Deluxe),Taylor Swift,2014-01-01,247533,61,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+613,This Love,1989 (Deluxe),Taylor Swift,2014-01-01,250093,61,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+614,I Know Places,1989 (Deluxe),Taylor Swift,2014-01-01,195706,58,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+615,Clean,1989 (Deluxe),Taylor Swift,2014-01-01,271000,64,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,4
+616,Wonderland,1989 (Deluxe),Taylor Swift,2014-01-01,245560,65,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,4
+617,You Are In Love,1989 (Deluxe),Taylor Swift,2014-01-01,267106,62,0.707,0.474,0.48,0.000108,0.0903,-8.894,0.0622,170.109,4
+618,New Romantics,1989 (Deluxe),Taylor Swift,2014-01-01,230466,66,0.00463,0.633,0.889,0.000458,0.0658,-5.87,0.0715,121.956,4
+619,I Know Places - Voice Memo,1989 (Deluxe),Taylor Swift,2014-01-01,216333,0,0.829,0.592,0.128,0.0,0.527,-17.932,0.589,78.828,4
+620,I Wish You Would - Voice Memo,1989 (Deluxe),Taylor Swift,2014-01-01,107133,0,0.717,0.781,0.357,0.0,0.185,-16.394,0.912,118.317,4
+621,Blank Space - Voice Memo,1989 (Deluxe),Taylor Swift,2014-01-01,131186,0,0.801,0.675,0.234,0.0,0.657,-15.064,0.721,127.296,4
+622,State Of Grace,Red,Taylor Swift,2012-10-22,295186,55,0.000197,0.588,0.825,0.00138,0.0885,-5.882,0.0328,129.968,4
+623,Red,Red,Taylor Swift,2012-10-22,220826,66,0.0773,0.602,0.896,8.87e-05,0.091,-4.267,0.0437,124.978,4
+624,Treacherous,Red,Taylor Swift,2012-10-22,240773,53,0.101,0.705,0.621,4.3e-06,0.147,-8.086,0.0334,109.993,4
+625,I Knew You Were Trouble.,Red,Taylor Swift,2012-10-22,217973,67,0.00454,0.622,0.469,2.25e-06,0.0398,-6.798,0.0363,77.019,4
+626,All Too Well,Red,Taylor Swift,2012-10-22,327893,60,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,4
+627,22,Red,Taylor Swift,2012-10-22,230133,61,0.00215,0.658,0.729,0.0013,0.0752,-6.561,0.0378,104.007,4
+628,I Almost Do,Red,Taylor Swift,2012-10-22,242573,54,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,4
+629,We Are Never Ever Getting Back Together,Red,Taylor Swift,2012-10-22,191880,66,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,4
+630,Stay Stay Stay,Red,Taylor Swift,2012-10-22,204826,52,0.307,0.729,0.748,1.29e-06,0.09,-6.67,0.0245,99.981,4
+631,The Last Time,Red,Taylor Swift,2012-10-22,298293,51,0.035,0.505,0.443,3.15e-06,0.0921,-7.039,0.0276,94.069,4
+632,Holy Ground,Red,Taylor Swift,2012-10-22,201853,54,0.0162,0.627,0.816,0.00208,0.0966,-6.698,0.0774,157.043,4
+633,Sad Beautiful Tragic,Red,Taylor Swift,2012-10-22,283680,49,0.632,0.624,0.34,0.0337,0.121,-12.411,0.029,129.987,3
+634,The Lucky One,Red,Taylor Swift,2012-10-22,240133,53,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,4
+635,Everything Has Changed,Red,Taylor Swift,2012-10-22,243933,63,0.36,0.624,0.458,3.89e-06,0.303,-6.755,0.0287,80.017,4
+636,Starlight,Red,Taylor Swift,2012-10-22,217826,51,0.0213,0.649,0.777,0.000335,0.221,-5.804,0.0406,126.018,4
+637,Begin Again,Red,Taylor Swift,2012-10-22,237613,63,0.199,0.53,0.526,3.52e-06,0.232,-8.349,0.0263,79.025,4
+638,State Of Grace,Red (Deluxe Edition),Taylor Swift,2012-10-22,295720,64,0.000197,0.588,0.825,0.00138,0.0884,-5.882,0.0328,129.968,4
+639,Red,Red (Deluxe Edition),Taylor Swift,2012-10-22,223093,68,0.0773,0.602,0.896,8.87e-05,0.0911,-4.267,0.0437,124.978,4
+640,Treacherous,Red (Deluxe Edition),Taylor Swift,2012-10-22,242760,63,0.101,0.704,0.621,4.3e-06,0.14,-8.086,0.0334,109.995,4
+641,I Knew You Were Trouble.,Red (Deluxe Edition),Taylor Swift,2012-10-22,219720,67,0.00454,0.622,0.469,2.25e-06,0.0335,-6.798,0.0363,77.019,4
+642,All Too Well,Red (Deluxe Edition),Taylor Swift,2012-10-22,329160,75,0.0382,0.602,0.609,0.0002,0.128,-7.803,0.0243,93.06,4
+643,22,Red (Deluxe Edition),Taylor Swift,2012-10-22,232120,66,0.00215,0.661,0.729,0.0013,0.0477,-6.561,0.0376,103.987,4
+644,I Almost Do,Red (Deluxe Edition),Taylor Swift,2012-10-22,244560,63,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,4
+645,We Are Never Ever Getting Back Together,Red (Deluxe Edition),Taylor Swift,2012-10-22,193146,66,0.00957,0.628,0.676,2.65e-05,0.121,-5.911,0.0916,85.984,4
+646,Stay Stay Stay,Red (Deluxe Edition),Taylor Swift,2012-10-22,205853,63,0.307,0.729,0.748,1.29e-06,0.0962,-6.67,0.0245,99.981,4
+647,The Last Time,Red (Deluxe Edition),Taylor Swift,2012-10-22,299013,63,0.035,0.505,0.443,3.15e-06,0.0906,-7.039,0.0276,94.069,4
+648,Holy Ground,Red (Deluxe Edition),Taylor Swift,2012-10-22,202960,63,0.0162,0.627,0.816,0.00208,0.0965,-6.698,0.0774,157.043,4
+649,Sad Beautiful Tragic,Red (Deluxe Edition),Taylor Swift,2012-10-22,284866,60,0.632,0.624,0.34,0.0337,0.0805,-12.411,0.029,129.987,3
+650,The Lucky One,Red (Deluxe Edition),Taylor Swift,2012-10-22,240266,62,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,4
+651,Everything Has Changed,Red (Deluxe Edition),Taylor Swift,2012-10-22,245413,63,0.36,0.624,0.458,3.89e-06,0.311,-6.755,0.0287,80.016,4
+652,Starlight,Red (Deluxe Edition),Taylor Swift,2012-10-22,220600,60,0.0213,0.649,0.777,0.000335,0.21,-5.804,0.0406,126.018,4
+653,Begin Again,Red (Deluxe Edition),Taylor Swift,2012-10-22,239426,62,0.199,0.53,0.526,3.52e-06,0.14,-8.349,0.0263,79.025,4
+654,The Moment I Knew,Red (Deluxe Edition),Taylor Swift,2012-10-22,286613,60,0.187,0.619,0.506,1.47e-05,0.101,-7.327,0.0315,126.03,4
+655,Come Back...Be Here,Red (Deluxe Edition),Taylor Swift,2012-10-22,223920,63,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,4
+656,Girl At Home,Red (Deluxe Edition),Taylor Swift,2012-10-22,220840,58,0.272,0.733,0.59,0.0,0.134,-5.86,0.0284,125.048,4
+657,Treacherous - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,240266,55,0.175,0.828,0.64,6.14e-05,0.0991,-8.248,0.0355,109.993,4
+658,Red - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,227080,56,0.113,0.678,0.902,0.000235,0.0705,-4.659,0.0358,124.998,4
+659,State Of Grace - Acoustic,Red (Deluxe Edition),Taylor Swift,2012-10-22,323080,57,0.664,0.626,0.118,0.000169,0.127,-15.91,0.0305,105.597,4
+660,State Of Grace,Red (Deluxe Edition),Taylor Swift,2012-10-22,295186,64,0.000197,0.588,0.825,0.00138,0.0885,-5.882,0.0328,129.968,4
+661,Red,Red (Deluxe Edition),Taylor Swift,2012-10-22,220826,66,0.0773,0.602,0.896,8.87e-05,0.091,-4.267,0.0437,124.978,4
+662,Treacherous,Red (Deluxe Edition),Taylor Swift,2012-10-22,240773,64,0.101,0.705,0.621,4.3e-06,0.147,-8.086,0.0334,109.993,4
+663,I Knew You Were Trouble.,Red (Deluxe Edition),Taylor Swift,2012-10-22,217973,64,0.00454,0.622,0.469,2.25e-06,0.0398,-6.798,0.0363,77.019,4
+664,All Too Well,Red (Deluxe Edition),Taylor Swift,2012-10-22,327893,75,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,4
+665,22,Red (Deluxe Edition),Taylor Swift,2012-10-22,230133,65,0.00215,0.658,0.729,0.0013,0.0752,-6.561,0.0378,104.007,4
+666,I Almost Do,Red (Deluxe Edition),Taylor Swift,2012-10-22,242573,63,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,4
+667,We Are Never Ever Getting Back Together,Red (Deluxe Edition),Taylor Swift,2012-10-22,191880,63,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,4
+668,Stay Stay Stay,Red (Deluxe Edition),Taylor Swift,2012-10-22,204826,63,0.307,0.729,0.748,1.29e-06,0.09,-6.67,0.0245,99.981,4
+669,The Last Time,Red (Deluxe Edition),Taylor Swift,2012-10-22,298293,63,0.035,0.505,0.443,3.15e-06,0.0921,-7.039,0.0276,94.069,4
+670,Holy Ground,Red (Deluxe Edition),Taylor Swift,2012-10-22,201853,63,0.0162,0.627,0.816,0.00208,0.0966,-6.698,0.0774,157.043,4
+671,Sad Beautiful Tragic,Red (Deluxe Edition),Taylor Swift,2012-10-22,283680,61,0.632,0.624,0.34,0.0337,0.121,-12.411,0.029,129.987,3
+672,The Lucky One,Red (Deluxe Edition),Taylor Swift,2012-10-22,240133,62,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,4
+673,Everything Has Changed,Red (Deluxe Edition),Taylor Swift,2012-10-22,243933,62,0.36,0.624,0.458,3.89e-06,0.303,-6.755,0.0287,80.017,4
+674,Starlight,Red (Deluxe Edition),Taylor Swift,2012-10-22,217826,61,0.0213,0.649,0.777,0.000335,0.221,-5.804,0.0406,126.018,4
+675,Begin Again,Red (Deluxe Edition),Taylor Swift,2012-10-22,237613,62,0.199,0.53,0.526,3.52e-06,0.232,-8.349,0.0263,79.025,4
+676,The Moment I Knew,Red (Deluxe Edition),Taylor Swift,2012-10-22,285560,61,0.187,0.62,0.506,1.47e-05,0.102,-7.327,0.0312,126.015,4
+677,Come Back...Be Here,Red (Deluxe Edition),Taylor Swift,2012-10-22,222706,64,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,4
+678,Girl At Home,Red (Deluxe Edition),Taylor Swift,2012-10-22,220320,59,0.272,0.733,0.59,0.0,0.136,-5.86,0.0284,125.048,4
+679,Treacherous - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,239720,57,0.175,0.828,0.64,6.14e-05,0.0996,-8.248,0.0355,109.993,4
+680,Red - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,226280,57,0.113,0.678,0.902,0.000235,0.0722,-4.659,0.0358,124.998,4
+681,State Of Grace - Acoustic,Red (Deluxe Edition),Taylor Swift,2012-10-22,323080,59,0.664,0.626,0.118,0.000169,0.127,-15.91,0.0305,105.597,4
+682,State Of Grace - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,90440,27,0.821,0.69,0.364,0.0,0.14,-11.709,0.912,88.084,1
+683,State Of Grace,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,295720,35,0.000197,0.588,0.825,0.00138,0.0884,-5.882,0.0328,129.968,4
+684,Red - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,64442,26,0.719,0.754,0.266,0.0,0.137,-11.695,0.879,92.483,1
+685,Red,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,223093,65,0.0773,0.602,0.896,8.87e-05,0.0911,-4.267,0.0437,124.978,4
+686,Treacherous - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,55288,26,0.7,0.634,0.357,0.0,0.185,-12.868,0.956,173.317,3
+687,Treacherous,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,242760,33,0.101,0.704,0.621,4.3e-06,0.14,-8.086,0.0334,109.995,4
+688,I Knew You Were Trouble. - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,67355,26,0.86,0.679,0.35,0.0,0.101,-11.252,0.889,87.576,4
+689,I Knew You Were Trouble.,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,219720,78,0.00454,0.622,0.469,2.25e-06,0.0335,-6.798,0.0363,77.019,4
+690,All Too Well - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,45862,27,0.841,0.806,0.362,0.0,0.151,-12.527,0.926,123.849,4
+691,All Too Well,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,329160,44,0.0382,0.602,0.609,0.0002,0.128,-7.803,0.0243,93.06,4
+692,22 - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,63016,26,0.775,0.757,0.367,0.0,0.127,-10.56,0.919,133.933,3
+693,22,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,232120,72,0.00215,0.661,0.729,0.0013,0.0477,-6.561,0.0376,103.987,4
+694,I Almost Do - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,52625,25,0.845,0.766,0.232,0.0,0.129,-11.455,0.805,95.101,4
+695,I Almost Do,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,244560,36,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,4
+696,We Are Never Ever Getting Back Together - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,106042,26,0.811,0.701,0.312,0.0,0.131,-11.818,0.934,68.151,4
+697,We Are Never Ever Getting Back Together,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,193146,77,0.00957,0.628,0.676,2.65e-05,0.121,-5.911,0.0916,85.984,4
+698,Stay Stay Stay - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,119456,26,0.785,0.729,0.281,0.0,0.153,-11.491,0.919,77.449,3
+699,Stay Stay Stay,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,205853,34,0.307,0.729,0.748,1.29e-06,0.0962,-6.67,0.0245,99.981,4
+700,The Last Time - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,87473,24,0.819,0.745,0.371,0.0,0.124,-12.403,0.951,94.766,4
+701,The Last Time,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,299013,35,0.035,0.505,0.443,3.15e-06,0.0906,-7.039,0.0276,94.069,4
+702,Holy Ground - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,79998,24,0.86,0.756,0.297,0.0,0.181,-13.778,0.957,87.227,3
+703,Holy Ground,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,202960,34,0.0162,0.627,0.816,0.00208,0.0965,-6.698,0.0774,157.043,4
+704,Sad Beautiful Tragic - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,61613,24,0.794,0.747,0.413,0.0,0.175,-12.898,0.953,84.382,4
+705,Sad Beautiful Tragic,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,284866,33,0.632,0.624,0.34,0.0337,0.0805,-12.411,0.029,129.987,3
+706,The Lucky One - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,73455,24,0.736,0.668,0.329,0.0,0.143,-12.858,0.954,78.286,1
+707,The Lucky One,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,240266,33,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,4
+708,Everything Has Changed - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,57768,24,0.718,0.785,0.306,0.0,0.242,-13.125,0.896,101.873,3
+709,Everything Has Changed,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,245413,68,0.36,0.624,0.458,3.89e-06,0.311,-6.755,0.0287,80.016,4
+710,Starlight - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,52709,24,0.809,0.707,0.315,0.0,0.2,-11.719,0.927,134.89,5
+711,Starlight,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,220600,33,0.0213,0.649,0.777,0.000335,0.21,-5.804,0.0406,126.018,4
+712,Begin Again - Commentary,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,65305,24,0.709,0.677,0.286,0.0,0.141,-12.23,0.934,95.371,4
+713,Begin Again,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,239426,60,0.199,0.53,0.526,3.52e-06,0.14,-8.349,0.0263,79.025,4
+714,State Of Grace - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,298070,0,3.3e-05,0.545,0.886,0.885,0.0888,-7.44,0.0358,129.986,4
+715,Red - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,223698,0,0.00174,0.611,0.871,0.369,0.0914,-6.24,0.0313,124.997,4
+716,Treacherous - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,243643,0,0.00516,0.685,0.645,0.46,0.129,-10.147,0.026,110.015,4
+717,I Knew You Were Trouble. - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,220852,1,0.000886,0.686,0.353,0.0694,0.0456,-8.935,0.0466,77.018,4
+718,All Too Well - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,330766,0,0.00669,0.597,0.64,0.745,0.148,-10.02,0.0281,93.004,4
+719,22 - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,233003,0,7.89e-05,0.619,0.693,0.739,0.0621,-8.138,0.0325,103.998,4
+720,I Almost Do - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,245451,0,0.0144,0.576,0.493,0.704,0.148,-9.318,0.0306,146.065,4
+721,We Are Never Ever Getting Back Together - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,194706,0,0.000137,0.59,0.574,0.716,0.0483,-8.42,0.0375,85.977,4
+722,Stay Stay Stay - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,207693,0,0.167,0.625,0.823,0.431,0.102,-8.443,0.0326,99.991,4
+723,The Last Time - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,301172,0,0.00167,0.462,0.418,0.696,0.102,-9.971,0.0328,94.009,4
+724,Holy Ground - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,204688,0,0.0028,0.628,0.767,0.743,0.0892,-8.401,0.0492,157.03,4
+725,Sad Beautiful Tragic - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,286552,0,0.611,0.668,0.359,0.802,0.078,-13.971,0.0322,129.997,3
+726,The Lucky One - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,242951,0,0.00856,0.83,0.399,0.761,0.194,-10.846,0.0549,117.981,4
+727,Everything Has Changed - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,246807,0,0.123,0.578,0.476,0.746,0.345,-10.418,0.065,79.987,4
+728,Starlight - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,220645,0,0.000686,0.606,0.668,0.835,0.238,-7.887,0.0302,126.023,4
+729,Begin Again - Karaoke Version,Red (Karaoke Version),Taylor Swift,2012-10-22,237600,0,0.0564,0.456,0.537,0.918,0.111,-10.591,0.0282,78.981,4
+730,State Of Grace - Karaoke Version,Red,Taylor Swift,2012-10-22,298070,14,3.3e-05,0.545,0.886,0.885,0.0888,-7.44,0.0358,129.986,4
+731,Red - Karaoke Version,Red,Taylor Swift,2012-10-22,223698,16,0.00174,0.611,0.871,0.369,0.0914,-6.24,0.0313,124.997,4
+732,Treacherous - Karaoke Version,Red,Taylor Swift,2012-10-22,243643,11,0.00516,0.685,0.645,0.46,0.129,-10.147,0.026,110.015,4
+733,I Knew You Were Trouble. - Karaoke Version,Red,Taylor Swift,2012-10-22,220852,16,0.000886,0.686,0.353,0.0694,0.0456,-8.935,0.0466,77.018,4
+734,All Too Well - Karaoke Version,Red,Taylor Swift,2012-10-22,330766,20,0.00669,0.597,0.64,0.745,0.148,-10.02,0.0281,93.004,4
+735,22 - Karaoke Version,Red,Taylor Swift,2012-10-22,233003,12,7.89e-05,0.619,0.693,0.739,0.0621,-8.138,0.0325,103.998,4
+736,I Almost Do - Karaoke Version,Red,Taylor Swift,2012-10-22,245451,9,0.0144,0.576,0.493,0.704,0.148,-9.318,0.0306,146.065,4
+737,We Are Never Ever Getting Back Together - Karaoke Version,Red,Taylor Swift,2012-10-22,194706,13,0.000137,0.59,0.574,0.716,0.0483,-8.42,0.0375,85.977,4
+738,Stay Stay Stay - Karaoke Version,Red,Taylor Swift,2012-10-22,207693,9,0.167,0.625,0.823,0.431,0.102,-8.443,0.0326,99.991,4
+739,The Last Time - Karaoke Version,Red,Taylor Swift,2012-10-22,301172,9,0.00167,0.462,0.418,0.696,0.102,-9.971,0.0328,94.009,4
+740,Holy Ground - Karaoke Version,Red,Taylor Swift,2012-10-22,204688,10,0.0028,0.628,0.767,0.743,0.0892,-8.401,0.0492,157.03,4
+741,Sad Beautiful Tragic - Karaoke Version,Red,Taylor Swift,2012-10-22,286552,8,0.611,0.668,0.359,0.802,0.078,-13.971,0.0322,129.997,3
+742,The Lucky One - Karaoke Version,Red,Taylor Swift,2012-10-22,242951,8,0.00856,0.83,0.399,0.761,0.194,-10.846,0.0549,117.981,4
+743,Everything Has Changed - Karaoke Version,Red,Taylor Swift,2012-10-22,246807,9,0.123,0.578,0.476,0.746,0.345,-10.418,0.065,79.987,4
+744,Starlight - Karaoke Version,Red,Taylor Swift,2012-10-22,220645,7,0.000686,0.606,0.668,0.835,0.238,-7.887,0.0302,126.023,4
+745,Begin Again - Karaoke Version,Red,Taylor Swift,2012-10-22,237600,11,0.0564,0.456,0.537,0.918,0.111,-10.591,0.0282,78.981,4
+746,State Of Grace - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,295186,11,3.3e-05,0.545,0.886,0.885,0.0891,-7.44,0.0358,129.986,4
+747,Red - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,220826,14,0.00137,0.612,0.871,0.374,0.0913,-6.269,0.0304,124.989,4
+748,Treacherous - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,240773,10,0.00531,0.689,0.631,0.495,0.129,-10.183,0.0258,110.04,4
+749,I Knew You Were Trouble. - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,217973,14,0.000588,0.688,0.353,0.0334,0.0481,-8.936,0.0468,77.001,4
+750,All Too Well - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,327893,21,0.00578,0.599,0.64,0.74,0.134,-10.061,0.0284,93.014,4
+751,22 - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,230133,10,9.27e-05,0.622,0.691,0.781,0.0603,-8.139,0.0319,103.989,4
+752,I Almost Do - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,242573,9,0.0145,0.578,0.495,0.711,0.148,-9.351,0.0304,146.034,4
+753,We Are Never Ever Getting Back Together - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,191880,11,0.000123,0.597,0.589,0.753,0.0625,-8.535,0.0389,86.005,4
+754,Stay Stay Stay - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,204826,8,0.158,0.629,0.825,0.44,0.0918,-8.462,0.032,100.002,4
+755,The Last Time - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,298293,7,0.00147,0.459,0.409,0.688,0.103,-10.032,0.0323,94.015,4
+756,Holy Ground - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,201853,9,0.00384,0.629,0.757,0.745,0.0864,-8.366,0.0512,157.02,4
+757,Sad Beautiful Tragic - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,283680,7,0.629,0.668,0.356,0.806,0.123,-13.96,0.0331,129.965,3
+758,The Lucky One - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,240133,7,0.0104,0.831,0.4,0.697,0.123,-10.782,0.0487,117.99,4
+759,Everything Has Changed - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,243933,8,0.124,0.581,0.469,0.757,0.366,-10.42,0.0621,80.048,4
+760,Starlight - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,217826,6,0.000825,0.609,0.652,0.88,0.262,-7.972,0.0303,126.025,4
+761,Begin Again - Instrumental With Background Vocals,Taylor Swift Karaoke: Red,Taylor Swift,2012-10-22,237613,10,0.067,0.459,0.526,0.912,0.103,-10.566,0.0281,78.966,4
+762,Mine - POP Mix,Speak Now (Japanese Version),Taylor Swift,2010-10-25,230546,34,0.00461,0.696,0.768,1.21e-06,0.101,-3.863,0.0308,121.05,4
+763,Sparks Fly,Speak Now (Japanese Version),Taylor Swift,2010-10-25,260946,18,0.0387,0.608,0.785,0.0,0.158,-2.976,0.0311,114.985,4
+764,Back To December,Speak Now (Japanese Version),Taylor Swift,2010-10-25,293040,14,0.0202,0.517,0.606,0.0,0.324,-5.797,0.0289,141.929,4
+765,Speak Now,Speak Now (Japanese Version),Taylor Swift,2010-10-25,240773,16,0.101,0.708,0.601,0.0,0.0979,-3.75,0.0306,118.962,4
+766,Dear John,Speak Now (Japanese Version),Taylor Swift,2010-10-25,403933,10,0.183,0.583,0.468,1.65e-06,0.111,-5.378,0.0278,119.375,3
+767,Mean,Speak Now (Japanese Version),Taylor Swift,2010-10-25,237746,16,0.445,0.57,0.747,0.0,0.219,-3.978,0.0426,164.004,4
+768,The Story Of Us,Speak Now (Japanese Version),Taylor Swift,2010-10-25,265680,14,0.000315,0.575,0.855,0.00161,0.0419,-4.827,0.0467,139.92,4
+769,Never Grow Up,Speak Now (Japanese Version),Taylor Swift,2010-10-25,290480,10,0.829,0.715,0.308,0.0,0.16,-8.829,0.0305,124.899,4
+770,Enchanted,Speak Now (Japanese Version),Taylor Swift,2010-10-25,352200,15,0.0716,0.535,0.618,0.000388,0.169,-3.913,0.0273,81.975,4
+771,Better Than Revenge,Speak Now (Japanese Version),Taylor Swift,2010-10-25,217173,11,0.0167,0.519,0.917,2.06e-05,0.359,-3.185,0.0887,145.882,4
+772,Innocent,Speak Now (Japanese Version),Taylor Swift,2010-10-25,302266,8,0.202,0.553,0.604,0.0,0.125,-5.295,0.0258,133.989,4
+773,Haunted,Speak Now (Japanese Version),Taylor Swift,2010-10-25,242093,10,0.0769,0.434,0.944,0.0,0.151,-2.641,0.0581,162.02,4
+774,Last Kiss,Speak Now (Japanese Version),Taylor Swift,2010-10-25,367146,9,0.581,0.359,0.329,3.75e-05,0.0979,-9.531,0.0293,84.358,3
+775,Long Live,Speak Now (Japanese Version),Taylor Swift,2010-10-25,317960,12,0.0426,0.412,0.682,7.47e-05,0.106,-4.319,0.0339,203.959,4
+776,Back To December,Speak Now (Japanese Version),Taylor Swift,2010-10-25,293040,9,0.113,0.525,0.676,0.0,0.294,-4.684,0.0294,141.95,4
+777,The Story Of Us,Speak Now (Japanese Version),Taylor Swift,2010-10-25,266480,9,0.00487,0.546,0.809,0.000372,0.0437,-3.621,0.041,139.91,4
+778,Sparks Fly - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,336826,47,0.00917,0.455,0.783,0.0,0.918,-5.184,0.0393,114.981,4
+779,Mine - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,259279,45,0.00233,0.496,0.852,0.0,0.554,-4.775,0.0373,120.969,4
+780,The Story Of Us - Live,Speak Now World Tour Live,Taylor Swift,2010-10-25,290520,46,0.00048,0.419,0.908,0.0,0.815,-5.156,0.0651,139.813,4
+781,Mean - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,246373,45,0.154,0.429,0.915,0.0,0.693,-4.373,0.069,163.752,4
+782,Ours - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,245973,44,0.715,0.421,0.355,0.0,0.867,-10.21,0.0298,77.769,4
+783,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,Speak Now World Tour Live,Taylor Swift,2010-10-25,362826,48,0.155,0.374,0.516,0.0,0.795,-8.745,0.0294,142.057,4
+784,Better Than Revenge - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,344573,45,0.00306,0.445,0.887,2.67e-05,0.931,-5.629,0.0768,145.954,4
+785,Speak Now - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,248146,45,0.0636,0.615,0.694,1.28e-06,0.83,-5.251,0.0318,118.876,4
+786,Last Kiss - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,369066,45,0.205,0.427,0.395,8.73e-06,0.701,-12.551,0.0291,79.517,3
+787,Drops Of Jupiter - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,315173,50,0.806,0.374,0.504,0.0,0.76,-8.407,0.0392,109.025,5
+788,Bette Davis Eyes - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,189146,46,0.713,0.327,0.488,0.0,0.837,-9.287,0.0322,104.46,4
+789,I Want You Back - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,83253,44,0.794,0.536,0.512,0.000122,0.497,-6.794,0.0341,97.397,4
+790,Dear John - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,404680,45,0.0157,0.521,0.386,0.0,0.884,-8.784,0.0301,119.518,3
+791,Enchanted - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,389213,48,0.0747,0.34,0.663,2.34e-06,0.563,-5.597,0.0331,163.678,4
+792,Haunted - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,292426,44,0.0245,0.338,0.818,0.0,0.889,-7.495,0.0496,162.157,4
+793,Long Live - Live/2011,Speak Now World Tour Live,Taylor Swift,2010-10-25,376466,45,0.0053,0.544,0.728,0.0,0.865,-5.838,0.0282,101.939,4
+794,Mine,Speak Now,Taylor Swift,2010-10-25,230706,67,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,4
+795,Sparks Fly,Speak Now,Taylor Swift,2010-10-25,260933,65,0.0396,0.605,0.787,1.42e-06,0.163,-3.002,0.0308,114.987,4
+796,Back To December,Speak Now,Taylor Swift,2010-10-25,293026,68,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,4
+797,Speak Now,Speak Now,Taylor Swift,2010-10-25,240760,61,0.095,0.709,0.599,0.0,0.0973,-3.734,0.0304,118.975,4
+798,Dear John,Speak Now,Taylor Swift,2010-10-25,403920,59,0.166,0.589,0.47,1.45e-06,0.112,-5.32,0.028,119.386,3
+799,Mean,Speak Now,Taylor Swift,2010-10-25,237733,66,0.452,0.568,0.761,0.0,0.217,-3.987,0.0459,163.974,4
+800,The Story Of Us,Speak Now,Taylor Swift,2010-10-25,265666,64,0.00478,0.543,0.818,0.000368,0.0357,-3.611,0.0398,139.898,4
+801,Never Grow Up,Speak Now,Taylor Swift,2010-10-25,290466,57,0.819,0.714,0.305,0.0,0.174,-8.837,0.0305,124.91,4
+802,Enchanted,Speak Now,Taylor Swift,2010-10-25,352186,77,0.0739,0.455,0.623,0.000424,0.146,-3.878,0.0288,163.893,4
+803,Better Than Revenge,Speak Now,Taylor Swift,2010-10-25,217160,61,0.0139,0.516,0.917,6.37e-06,0.36,-3.186,0.0827,145.821,4
+804,Innocent,Speak Now,Taylor Swift,2010-10-25,302253,55,0.186,0.552,0.608,0.0,0.125,-5.29,0.0259,134.05,4
+805,Haunted,Speak Now,Taylor Swift,2010-10-25,242080,58,0.0826,0.436,0.95,1.08e-06,0.149,-2.627,0.057,162.088,4
+806,Last Kiss,Speak Now,Taylor Swift,2010-10-25,367133,59,0.57,0.371,0.341,3.09e-05,0.101,-9.475,0.0319,89.038,1
+807,Long Live,Speak Now,Taylor Swift,2010-10-25,317946,57,0.036,0.418,0.68,7.59e-05,0.108,-4.3,0.0346,204.125,4
+808,Mine - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,97959,20,0.705,0.687,0.242,0.0,0.215,-14.234,0.933,66.869,4
+809,Mine,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,231866,53,0.00342,0.623,0.78,2.07e-06,0.143,-2.939,0.0307,121.061,4
+810,Sparks Fly - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,60865,20,0.799,0.716,0.264,0.0,0.177,-15.156,0.952,64.792,4
+811,Sparks Fly,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,262920,32,0.0431,0.609,0.791,0.0,0.159,-3.01,0.0309,114.998,4
+812,Back To December - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,54804,20,0.611,0.716,0.185,0.0,0.243,-15.663,0.909,128.394,1
+813,Back To December,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,295106,34,0.125,0.527,0.67,0.0,0.17,-4.688,0.0305,141.893,4
+814,Speak Now - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,99030,20,0.754,0.681,0.21,0.0,0.153,-15.714,0.946,85.222,4
+815,Speak Now,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,243346,29,0.0994,0.71,0.62,0.0,0.0997,-3.723,0.0308,118.959,4
+816,Dear John - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,64809,20,0.862,0.71,0.196,0.0,0.197,-14.8,0.94,83.656,4
+817,Dear John,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,405906,29,0.183,0.586,0.466,1.44e-06,0.109,-5.341,0.0277,119.367,3
+818,Mean - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,89626,20,0.851,0.643,0.164,0.0,0.158,-16.38,0.912,85.001,4
+819,Mean,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,238693,32,0.434,0.567,0.746,0.0,0.232,-4.023,0.0485,163.98,4
+820,The Story Of Us - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,77139,19,0.67,0.711,0.18,0.0,0.17,-15.344,0.919,95.847,4
+821,The Story Of Us,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,267653,50,0.00463,0.542,0.808,0.000479,0.0587,-3.592,0.038,139.907,4
+822,Never Grow Up - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,76094,19,0.925,0.684,0.182,0.0,0.335,-15.868,0.957,143.429,5
+823,Never Grow Up,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,292920,27,0.811,0.718,0.301,0.0,0.129,-8.834,0.0307,124.899,4
+824,Enchanted - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,84453,19,0.755,0.612,0.25,0.0,0.157,-15.43,0.945,51.351,4
+825,Enchanted,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,353253,36,0.0701,0.464,0.624,0.000477,0.158,-3.846,0.0292,163.9,4
+826,Better Than Revenge - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,45139,19,0.875,0.706,0.317,0.0,0.218,-14.093,0.934,104.978,5
+827,Better Than Revenge,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,220306,29,0.0155,0.517,0.918,1.52e-05,0.263,-3.187,0.0912,145.87,4
+828,Innocent - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,58853,20,0.869,0.678,0.232,0.0,0.317,-15.836,0.946,146.991,3
+829,Innocent,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,303400,25,0.178,0.561,0.595,0.0,0.121,-5.285,0.0259,134.032,4
+830,Haunted - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,61361,20,0.772,0.669,0.283,0.0,0.328,-15.357,0.944,149.646,4
+831,Haunted,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,245413,27,0.0854,0.441,0.946,1.35e-06,0.0707,-2.616,0.0582,162.145,4
+832,Last Kiss - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,59768,19,0.804,0.672,0.243,0.0,0.28,-15.832,0.944,84.599,4
+833,Last Kiss,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,369120,28,0.591,0.429,0.333,2.29e-05,0.0994,-9.499,0.0303,72.619,3
+834,Long Live - Commentary,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,41769,19,0.712,0.782,0.272,0.0,0.226,-14.986,0.939,74.299,5
+835,Long Live,Speak Now (Big Machine Radio Release Special),Taylor Swift,2010-10-25,317946,28,0.0442,0.416,0.692,0.000104,0.112,-4.289,0.0356,204.104,4
+836,Mine - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,241106,10,3.52e-05,0.6,0.701,0.72,0.0848,-5.72,0.0334,121.053,4
+837,Sparks Fly - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,264120,11,0.000535,0.599,0.726,0.696,0.213,-5.266,0.0295,114.985,4
+838,Back To December - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,296226,12,0.00385,0.524,0.636,0.29,0.161,-7.37,0.0264,141.967,4
+839,Speak Now - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,250186,10,0.00137,0.656,0.546,0.889,0.0813,-6.233,0.046,118.984,4
+840,Dear John - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,407106,8,0.12,0.597,0.404,0.539,0.143,-8.602,0.0307,119.52,3
+841,Mean - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,246120,7,0.225,0.591,0.707,0.012,0.146,-6.267,0.0407,163.985,4
+842,The Story Of Us - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,270120,8,3.35e-05,0.489,0.814,0.806,0.0566,-5.314,0.0338,140.017,4
+843,Never Grow Up - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,294106,5,0.842,0.644,0.277,0.559,0.123,-14.132,0.0429,125.018,4
+844,Enchanted - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,356106,12,0.00282,0.524,0.551,0.857,0.149,-6.141,0.0291,164.064,4
+845,Better Than Revenge - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,228333,8,0.000178,0.533,0.894,0.739,0.285,-4.91,0.0624,146.044,4
+846,Innocent - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,306120,5,0.0931,0.561,0.593,0.436,0.111,-7.862,0.0261,134.008,4
+847,Haunted - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,246133,7,0.000523,0.446,0.919,0.842,0.0558,-5.858,0.0393,161.983,4
+848,Last Kiss - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,371120,7,0.514,0.59,0.285,0.762,0.106,-11.486,0.0243,159.138,3
+849,Long Live - Instrumental With Background Vocals,Speak Now (Karaoke Version),Taylor Swift,2010-10-25,317974,7,0.00131,0.598,0.639,0.737,0.102,-6.214,0.0274,102.015,4
+850,Mine - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,231533,8,3.33e-05,0.579,0.657,0.637,0.129,-6.779,0.0347,121.045,4
+851,Sparks Fly - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,261519,9,0.000485,0.6,0.687,0.703,0.156,-6.312,0.029,114.987,4
+852,Back To December - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,294653,10,0.00387,0.518,0.609,0.268,0.166,-8.454,0.0266,141.971,4
+853,Speak Now - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,242386,7,0.00133,0.662,0.505,0.91,0.115,-7.218,0.0468,118.981,4
+854,Dear John - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,405746,9,0.107,0.601,0.374,0.451,0.107,-9.625,0.0311,119.512,3
+855,Mean - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,237360,8,0.219,0.587,0.665,0.0268,0.123,-7.383,0.0405,163.973,4
+856,The Story Of Us - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,267120,7,3.34e-05,0.496,0.797,0.825,0.0538,-6.419,0.0341,140.012,4
+857,Never Grow Up - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,292680,6,0.857,0.643,0.265,0.556,0.222,-15.172,0.0433,124.995,4
+858,Enchanted - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,353826,12,0.00378,0.57,0.523,0.855,0.15,-7.225,0.0274,82.003,4
+859,Better Than Revenge - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,215506,7,0.000224,0.527,0.872,0.746,0.491,-5.994,0.0614,146.023,4
+860,Innocent - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,304040,5,0.0866,0.562,0.564,0.616,0.129,-8.999,0.0267,134.024,4
+861,Haunted - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,243626,7,0.000432,0.446,0.904,0.831,0.0685,-6.905,0.0375,162.185,4
+862,Last Kiss - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,368440,8,0.504,0.587,0.261,0.618,0.101,-12.548,0.0251,159.012,3
+863,Long Live - Instrumental With Background Vocals,Taylor Swift Karaoke: Speak Now,Taylor Swift,2010-10-25,318346,5,0.00134,0.592,0.61,0.711,0.0702,-7.271,0.0277,102.016,4
+864,Mine,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,230706,58,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,4
+865,Sparks Fly,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,260933,59,0.0396,0.605,0.787,1.42e-06,0.163,-3.002,0.0308,114.987,4
+866,Back To December,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,293026,59,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,4
+867,Speak Now,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,240760,57,0.095,0.709,0.599,0.0,0.0973,-3.734,0.0304,118.975,4
+868,Dear John,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,403920,63,0.166,0.589,0.47,1.45e-06,0.112,-5.32,0.028,119.386,3
+869,Mean,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,237733,56,0.452,0.568,0.761,0.0,0.217,-3.987,0.0459,163.974,4
+870,The Story Of Us,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,265666,58,0.00478,0.543,0.818,0.000368,0.0357,-3.611,0.0398,139.898,4
+871,Never Grow Up,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,290466,58,0.819,0.714,0.305,0.0,0.174,-8.837,0.0305,124.91,4
+872,Enchanted,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,352186,64,0.0739,0.455,0.623,0.000424,0.146,-3.878,0.0288,163.893,4
+873,Better Than Revenge,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,217160,64,0.0139,0.516,0.917,6.37e-06,0.36,-3.186,0.0827,145.821,4
+874,Innocent,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,302253,54,0.186,0.552,0.608,0.0,0.125,-5.29,0.0259,134.05,4
+875,Haunted,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,242080,59,0.0826,0.436,0.95,1.08e-06,0.149,-2.627,0.057,162.088,4
+876,Last Kiss,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,367133,62,0.57,0.371,0.341,3.09e-05,0.101,-9.475,0.0319,89.038,1
+877,Long Live,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,317453,57,0.036,0.418,0.68,7.59e-05,0.114,-4.3,0.0347,204.12,4
+878,Ours,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,237920,59,0.537,0.608,0.569,0.0,0.097,-7.227,0.0284,159.845,4
+879,If This Was A Movie,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,234546,56,0.166,0.511,0.719,4.54e-06,0.34,-3.457,0.0265,147.852,4
+880,Superman,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,275960,53,0.0268,0.582,0.765,1.95e-06,0.103,-3.648,0.0324,131.982,4
+881,Back To December - Acoustic,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,292560,55,0.748,0.541,0.453,0.0,0.2,-6.459,0.0266,141.757,4
+882,Haunted - Acoustic Version,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,217613,53,0.842,0.563,0.443,0.0,0.293,-5.078,0.0247,80.962,4
+883,Mine - POP Mix,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,230333,50,0.00727,0.695,0.723,1.2e-06,0.1,-3.806,0.0285,121.011,4
+884,Mine,Speak Now (US Version),Taylor Swift,2010-01-01,230773,38,0.00327,0.621,0.78,4.55e-06,0.184,-2.934,0.0297,121.038,4
+885,Sparks Fly,Speak Now (US Version),Taylor Swift,2010-01-01,260946,31,0.0387,0.608,0.785,0.0,0.158,-2.976,0.0311,114.985,4
+886,Back To December,Speak Now (US Version),Taylor Swift,2010-01-01,293040,33,0.113,0.525,0.676,0.0,0.294,-4.684,0.0294,141.95,4
+887,Speak Now,Speak Now (US Version),Taylor Swift,2010-01-01,240773,29,0.101,0.708,0.601,0.0,0.0979,-3.75,0.0306,118.962,4
+888,Dear John,Speak Now (US Version),Taylor Swift,2010-01-01,403933,29,0.183,0.583,0.468,1.65e-06,0.111,-5.378,0.0278,119.375,3
+889,Mean,Speak Now (US Version),Taylor Swift,2010-01-01,237746,31,0.445,0.57,0.747,0.0,0.219,-3.978,0.0426,164.004,4
+890,The Story Of Us,Speak Now (US Version),Taylor Swift,2010-01-01,266480,31,0.00487,0.546,0.809,0.000372,0.0437,-3.621,0.041,139.91,4
+891,Never Grow Up,Speak Now (US Version),Taylor Swift,2010-01-01,290480,26,0.829,0.715,0.308,0.0,0.16,-8.829,0.0305,124.899,4
+892,Enchanted,Speak Now (US Version),Taylor Swift,2010-01-01,352200,35,0.0716,0.535,0.618,0.000388,0.169,-3.913,0.0273,81.975,4
+893,Better Than Revenge,Speak Now (US Version),Taylor Swift,2010-01-01,217173,31,0.0167,0.519,0.917,2.06e-05,0.359,-3.185,0.0887,145.882,4
+894,Innocent,Speak Now (US Version),Taylor Swift,2010-01-01,302266,25,0.202,0.553,0.604,0.0,0.125,-5.295,0.0258,133.989,4
+895,Haunted,Speak Now (US Version),Taylor Swift,2010-01-01,242093,27,0.0769,0.434,0.944,0.0,0.151,-2.641,0.0581,162.02,4
+896,Last Kiss,Speak Now (US Version),Taylor Swift,2010-01-01,367146,27,0.581,0.359,0.329,3.75e-05,0.0979,-9.531,0.0293,84.358,3
+897,Long Live,Speak Now (US Version),Taylor Swift,2010-01-01,317960,27,0.0426,0.412,0.682,7.47e-05,0.106,-4.319,0.0339,203.959,4
+898,Mine - POP Mix,Speak Now,Taylor Swift,2010-01-01,230546,56,0.00461,0.696,0.768,1.21e-06,0.101,-3.863,0.0308,121.05,4
+899,Sparks Fly,Speak Now,Taylor Swift,2010-01-01,260946,63,0.0387,0.608,0.785,0.0,0.158,-2.976,0.0311,114.985,4
+900,Back To December,Speak Now,Taylor Swift,2010-01-01,293040,69,0.0202,0.517,0.606,0.0,0.324,-5.797,0.0289,141.929,4
+901,Speak Now,Speak Now,Taylor Swift,2010-01-01,240773,61,0.101,0.708,0.601,0.0,0.0979,-3.75,0.0306,118.962,4
+902,Dear John,Speak Now,Taylor Swift,2010-01-01,403933,63,0.183,0.583,0.468,1.65e-06,0.111,-5.378,0.0278,119.375,3
+903,Mean,Speak Now,Taylor Swift,2010-01-01,237746,65,0.445,0.57,0.747,0.0,0.219,-3.978,0.0426,164.004,4
+904,The Story Of Us,Speak Now,Taylor Swift,2010-01-01,265680,57,0.000315,0.575,0.855,0.00161,0.0419,-4.827,0.0467,139.92,4
+905,Never Grow Up,Speak Now,Taylor Swift,2010-01-01,290480,57,0.829,0.715,0.308,0.0,0.16,-8.829,0.0305,124.899,4
+906,Enchanted,Speak Now,Taylor Swift,2010-01-01,352200,76,0.0716,0.535,0.618,0.000388,0.169,-3.913,0.0273,81.975,4
+907,Better Than Revenge,Speak Now,Taylor Swift,2010-01-01,217173,66,0.0167,0.519,0.917,2.06e-05,0.359,-3.185,0.0887,145.882,4
+908,Innocent,Speak Now,Taylor Swift,2010-01-01,302266,54,0.202,0.553,0.604,0.0,0.125,-5.295,0.0258,133.989,4
+909,Haunted,Speak Now,Taylor Swift,2010-01-01,242093,59,0.0769,0.434,0.944,0.0,0.151,-2.641,0.0581,162.02,4
+910,Last Kiss,Speak Now,Taylor Swift,2010-01-01,367146,61,0.581,0.359,0.329,3.75e-05,0.0979,-9.531,0.0293,84.358,3
+911,Long Live,Speak Now,Taylor Swift,2010-01-01,317960,59,0.0426,0.412,0.682,7.47e-05,0.106,-4.319,0.0339,203.959,4
+912,Mine - POP Mix,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,230546,46,0.00461,0.696,0.768,1.21e-06,0.101,-3.863,0.0308,121.05,4
+913,Sparks Fly,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,260946,51,0.0387,0.608,0.785,0.0,0.158,-2.976,0.0311,114.985,4
+914,Back To December,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,293040,51,0.0202,0.517,0.606,0.0,0.324,-5.797,0.0289,141.929,4
+915,Speak Now,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,240773,50,0.101,0.708,0.601,0.0,0.0979,-3.75,0.0306,118.962,4
+916,Dear John,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,403887,49,0.183,0.583,0.468,1.65e-06,0.111,-5.378,0.0278,119.375,3
+917,Mean,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,237746,49,0.445,0.57,0.747,0.0,0.219,-3.978,0.0426,164.004,4
+918,The Story Of Us,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,265636,50,0.000315,0.575,0.855,0.00161,0.0419,-4.827,0.0467,139.92,4
+919,Never Grow Up,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,290480,45,0.829,0.715,0.308,0.0,0.16,-8.829,0.0305,124.899,4
+920,Enchanted,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,352200,55,0.0716,0.535,0.618,0.000388,0.169,-3.913,0.0273,81.975,4
+921,Better Than Revenge,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,217173,51,0.0167,0.519,0.917,2.06e-05,0.359,-3.185,0.0887,145.882,4
+922,Innocent,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,302266,46,0.202,0.553,0.604,0.0,0.125,-5.295,0.0258,133.989,4
+923,Haunted,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,242093,48,0.0769,0.434,0.944,0.0,0.151,-2.641,0.0581,162.02,4
+924,Last Kiss,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,367146,48,0.581,0.359,0.329,3.75e-05,0.0979,-9.531,0.0293,84.358,3
+925,Long Live,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,317960,48,0.0426,0.412,0.682,7.47e-05,0.106,-4.319,0.0339,203.959,4
+926,Ours,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,238173,56,0.505,0.61,0.556,0.0,0.0851,-7.369,0.0285,159.838,4
+927,If This Was A Movie,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,234546,53,0.154,0.515,0.724,4.05e-06,0.269,-3.498,0.0267,147.788,4
+928,Superman,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,276266,49,0.0187,0.582,0.817,1.94e-06,0.101,-3.718,0.0337,131.983,4
+929,Back To December - Acoustic,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,292533,59,0.731,0.541,0.451,0.0,0.197,-6.522,0.027,141.713,4
+930,Haunted - Acoustic Version,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,217626,49,0.841,0.574,0.462,0.0,0.28,-5.124,0.0252,80.858,4
+931,Mine,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,230773,65,0.00327,0.621,0.78,4.55e-06,0.184,-2.934,0.0297,121.038,4
+932,Back To December,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,293040,45,0.113,0.525,0.676,0.0,0.294,-4.684,0.0294,141.95,4
+933,The Story Of Us,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,266480,61,0.00487,0.546,0.809,0.000372,0.0437,-3.621,0.041,139.91,4
+934,Fearless,Fearless,Taylor Swift,2008-11-11,242826,18,0.037,0.598,0.705,0.0,0.304,-4.394,0.0275,100.019,4
+935,Fifteen,Fearless,Taylor Swift,2008-11-11,294880,16,0.0602,0.56,0.636,0.0,0.148,-4.453,0.0262,95.431,4
+936,Love Story,Fearless,Taylor Swift,2008-11-11,234213,29,0.021,0.622,0.637,0.000144,0.189,-5.401,0.0289,119.054,4
+937,Hey Stephen,Fearless,Taylor Swift,2008-11-11,254826,15,0.177,0.843,0.555,1.34e-06,0.0977,-7.359,0.0316,116.001,4
+938,White Horse,Fearless,Taylor Swift,2008-11-11,234906,14,0.318,0.578,0.349,0.0,0.1,-8.025,0.0257,92.354,4
+939,You Belong With Me,Fearless,Taylor Swift,2008-11-11,231453,31,0.16,0.688,0.765,1.78e-05,0.103,-4.451,0.0387,129.967,4
+940,Breathe,Fearless,Taylor Swift,2008-11-11,264373,23,0.395,0.491,0.479,0.0,0.122,-7.396,0.0269,148.305,4
+941,Tell Me Why,Fearless,Taylor Swift,2008-11-11,200906,14,0.0689,0.606,0.85,2.96e-06,0.363,-3.057,0.038,99.978,4
+942,You're Not Sorry,Fearless,Taylor Swift,2008-11-11,262173,12,0.158,0.467,0.456,0.0,0.111,-4.155,0.0271,134.059,4
+943,The Way I Loved You,Fearless,Taylor Swift,2008-11-11,244573,14,0.0345,0.433,0.723,0.0,0.125,-3.751,0.0352,160.92,4
+944,Forever & Always,Fearless,Taylor Swift,2008-11-11,225786,15,0.0767,0.607,0.826,0.0,0.104,-4.989,0.0584,128.048,4
+945,The Best Day,Fearless,Taylor Swift,2008-11-11,245666,33,0.637,0.667,0.447,4.65e-06,0.138,-8.572,0.0285,126.189,4
+946,Change,Fearless,Taylor Swift,2008-11-11,280333,12,0.00454,0.536,0.768,0.0,0.106,-4.157,0.0361,95.996,4
+947,Our Song,Fearless,Taylor Swift,2008-11-11,200200,15,0.00623,0.504,0.7,1.24e-06,0.342,-4.826,0.0326,177.822,4
+948,Teardrops On My Guitar,Fearless,Taylor Swift,2008-11-11,194720,15,0.017,0.513,0.547,0.00637,0.117,-6.289,0.0257,99.942,4
+949,Should've Said No,Fearless,Taylor Swift,2008-11-11,244333,12,0.00588,0.4,0.762,9.59e-05,0.277,-4.411,0.039,168.137,4
+950,Beautiful Eyes,Fearless,Taylor Swift,2008-11-11,179240,14,0.383,0.529,0.7,0.0,0.0967,-3.303,0.026,96.019,4
+951,Picture To Burn - Radio Edit,Fearless,Taylor Swift,2008-11-11,173333,11,0.0803,0.661,0.859,0.0,0.0926,-2.445,0.0315,105.583,4
+952,I'm Only Me When I'm With You,Fearless,Taylor Swift,2008-11-11,214320,24,0.00498,0.557,0.935,0.000611,0.101,-3.694,0.0675,143.997,4
+953,I Heart ?,Fearless,Taylor Swift,2008-11-11,197346,12,0.0472,0.706,0.818,0.0,0.327,-3.335,0.0267,105.995,4
+954,Fearless,Fearless,Taylor Swift,2008-11-11,243400,26,0.0393,0.403,0.699,0.0,0.303,-4.412,0.0352,200.056,4
+955,Fifteen,Fearless,Taylor Swift,2008-11-11,295213,25,0.0665,0.558,0.634,0.0,0.145,-4.437,0.0267,95.349,4
+956,Love Story,Fearless,Taylor Swift,2008-11-11,234706,36,0.0198,0.618,0.637,7.99e-05,0.169,-5.412,0.0289,119.056,4
+957,Hey Stephen,Fearless,Taylor Swift,2008-11-11,256053,24,0.181,0.841,0.543,2.24e-06,0.0903,-7.338,0.0315,115.994,4
+958,White Horse,Fearless,Taylor Swift,2008-11-11,235426,26,0.272,0.582,0.334,0.0,0.102,-8.035,0.026,92.71,4
+959,You Belong With Me,Fearless,Taylor Swift,2008-11-11,232120,36,0.17,0.69,0.774,1.64e-05,0.102,-4.467,0.039,129.98,4
+960,Breathe,Fearless,Taylor Swift,2008-11-11,264973,24,0.388,0.487,0.476,0.0,0.135,-7.385,0.0279,147.913,4
+961,Tell Me Why,Fearless,Taylor Swift,2008-11-11,201506,21,0.0667,0.607,0.854,2.75e-06,0.356,-3.079,0.0386,99.989,4
+962,You're Not Sorry,Fearless,Taylor Swift,2008-11-11,263240,23,0.141,0.469,0.46,1.39e-06,0.113,-4.098,0.0273,133.956,4
+963,The Way I Loved You,Fearless,Taylor Swift,2008-11-11,245400,23,0.0393,0.434,0.719,0.0,0.113,-3.715,0.0331,160.92,4
+964,Forever & Always,Fearless,Taylor Swift,2008-11-11,226333,23,0.0883,0.603,0.811,0.0,0.101,-4.98,0.0532,128.007,4
+965,The Best Day,Fearless,Taylor Swift,2008-11-11,246320,21,0.639,0.668,0.448,4.06e-06,0.14,-8.566,0.0286,126.074,4
+966,Change,Fearless,Taylor Swift,2008-11-11,280293,20,0.00418,0.547,0.763,0.0,0.107,-4.206,0.0375,96.018,4
+967,Our Song,Fearless,Taylor Swift,2008-11-11,201106,25,0.00609,0.522,0.691,0.0,0.249,-4.825,0.0307,177.865,4
+968,Teardrops On My Guitar,Fearless,Taylor Swift,2008-11-11,194653,26,0.0174,0.514,0.554,0.00572,0.118,-6.338,0.0258,99.947,4
+969,Should've Said No,Fearless,Taylor Swift,2008-11-11,245826,25,0.00585,0.405,0.758,0.00029,0.246,-4.385,0.0376,168.077,4
+970,Love Story - J Stax Radio Mix,Fearless,Taylor Swift,2008-11-11,221800,27,0.00664,0.696,0.827,0.0031,0.297,-6.464,0.0313,127.997,4
+971,Fearless,Fearless (International Version),Taylor Swift,2008-11-11,242373,38,0.0449,0.593,0.705,0.0,0.309,-4.43,0.0269,100.11,4
+972,Fifteen,Fearless (International Version),Taylor Swift,2008-11-11,294306,38,0.072,0.555,0.648,0.0,0.143,-4.419,0.027,95.431,4
+973,Love Story,Fearless (International Version),Taylor Swift,2008-11-11,233933,48,0.0186,0.62,0.639,0.00011,0.206,-5.398,0.0285,119.055,4
+974,Hey Stephen,Fearless (International Version),Taylor Swift,2008-11-11,254680,35,0.174,0.843,0.543,3.87e-06,0.0968,-7.364,0.0317,116.0,4
+975,White Horse,Fearless (International Version),Taylor Swift,2008-11-11,233560,38,0.298,0.587,0.342,0.0,0.106,-8.034,0.0257,92.71,4
+976,You Belong With Me,Fearless (International Version),Taylor Swift,2008-11-11,230506,50,0.151,0.688,0.775,1.98e-05,0.104,-4.436,0.0381,129.969,4
+977,Breathe,Fearless (International Version),Taylor Swift,2008-11-11,263720,36,0.389,0.488,0.472,0.0,0.125,-7.39,0.0275,147.926,4
+978,Tell Me Why,Fearless (International Version),Taylor Swift,2008-11-11,200213,32,0.0611,0.606,0.848,1.99e-06,0.374,-3.058,0.0374,99.999,4
+979,You're Not Sorry,Fearless (International Version),Taylor Swift,2008-11-11,261800,34,0.145,0.471,0.458,2.39e-06,0.108,-4.137,0.027,133.96,4
+980,The Way I Loved You,Fearless (International Version),Taylor Swift,2008-11-11,244626,36,0.0315,0.434,0.723,0.0,0.125,-3.748,0.0335,160.872,4
+981,Forever & Always,Fearless (International Version),Taylor Swift,2008-11-11,225000,36,0.0788,0.604,0.816,0.0,0.164,-5.002,0.0537,128.0,4
+982,The Best Day,Fearless (International Version),Taylor Swift,2008-11-11,245266,32,0.648,0.671,0.44,3.04e-06,0.141,-8.561,0.0287,126.059,4
+983,Change,Fearless (International Version),Taylor Swift,2008-11-11,278546,31,0.00465,0.545,0.747,0.0,0.115,-4.231,0.037,96.017,4
+984,Our Song - International Mix,Fearless (International Version),Taylor Swift,2008-11-11,199933,37,0.00739,0.516,0.696,1.11e-06,0.354,-4.833,0.0301,177.936,4
+985,Teardrops On My Guitar - International Mix,Fearless (International Version),Taylor Swift,2008-11-11,193640,39,0.0178,0.514,0.557,0.00755,0.114,-6.307,0.0264,99.974,4
+986,Should've Said No - International Mix,Fearless (International Version),Taylor Swift,2008-11-11,245826,34,0.00505,0.398,0.761,0.000437,0.234,-4.382,0.0377,168.092,4
+987,Fearless,Fearless,Taylor Swift,2008-11-11,241986,60,0.04,0.594,0.712,0.0,0.309,-4.418,0.0273,99.972,4
+988,Fifteen,Fearless,Taylor Swift,2008-11-11,294333,59,0.067,0.556,0.651,0.0,0.145,-4.396,0.0266,95.485,4
+989,Love Story,Fearless,Taylor Swift,2008-11-11,235266,70,0.17,0.618,0.741,0.0,0.0822,-3.95,0.031,118.984,4
+990,Hey Stephen,Fearless,Taylor Swift,2008-11-11,254306,53,0.194,0.841,0.544,2.48e-06,0.108,-7.347,0.0309,115.994,4
+991,White Horse,Fearless,Taylor Swift,2008-11-11,234426,59,0.305,0.578,0.34,0.0,0.104,-8.027,0.0264,92.702,4
+992,You Belong With Me,Fearless,Taylor Swift,2008-11-11,231133,70,0.162,0.687,0.783,1.35e-05,0.114,-4.44,0.0386,129.964,4
+993,Breathe,Fearless,Taylor Swift,2008-11-11,263973,50,0.379,0.505,0.482,0.0,0.113,-7.372,0.0276,73.975,4
+994,Tell Me Why,Fearless,Taylor Swift,2008-11-11,200546,49,0.0571,0.604,0.855,3.65e-06,0.343,-3.097,0.038,99.96,4
+995,You're Not Sorry,Fearless,Taylor Swift,2008-11-11,261786,51,0.146,0.475,0.452,1.36e-06,0.108,-4.134,0.027,133.959,4
+996,The Way I Loved You,Fearless,Taylor Swift,2008-11-11,244226,60,0.0408,0.433,0.7,0.0,0.115,-3.709,0.0336,160.927,4
+997,Forever & Always,Fearless,Taylor Swift,2008-11-11,225320,56,0.0752,0.608,0.821,0.0,0.11,-4.985,0.0576,128.042,4
+998,The Best Day,Fearless,Taylor Swift,2008-11-11,245333,51,0.647,0.666,0.434,1.95e-06,0.124,-8.543,0.0289,126.084,4
+999,Change,Fearless,Taylor Swift,2008-11-11,280240,47,0.00408,0.541,0.77,0.0,0.117,-4.17,0.0354,96.013,4
+1000,Fearless - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,54397,23,0.787,0.715,0.275,0.0,0.2,-12.397,0.93,108.767,3
+1001,Fearless,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,242986,57,0.04,0.596,0.709,0.0,0.304,-4.373,0.0275,100.028,4
+1002,Fifteen - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,66742,23,0.791,0.787,0.178,0.0,0.142,-15.183,0.93,61.867,4
+1003,Fifteen,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,295333,55,0.0687,0.55,0.64,0.0,0.131,-4.448,0.0266,95.487,4
+1004,Love Story - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,82546,23,0.81,0.715,0.26,0.0,0.179,-12.643,0.922,90.743,4
+1005,Love Story,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,236266,75,0.131,0.617,0.741,0.0,0.0772,-3.97,0.0311,118.984,4
+1006,Hey Stephen - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,69146,25,0.881,0.806,0.28,0.0,0.179,-12.117,0.881,47.607,3
+1007,Hey Stephen,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,256053,31,0.167,0.841,0.556,3.6e-06,0.0966,-7.35,0.0319,116.01,4
+1008,White Horse - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,51984,23,0.796,0.778,0.237,0.0,0.147,-12.989,0.931,103.247,3
+1009,White Horse,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,235413,57,0.324,0.58,0.357,0.0,0.101,-8.082,0.027,92.598,4
+1010,You Belong With Me - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,48248,23,0.795,0.792,0.263,0.0,0.161,-12.043,0.938,126.254,4
+1011,You Belong With Me,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,232120,71,0.178,0.687,0.745,1.59e-05,0.111,-4.432,0.0379,129.966,4
+1012,Breathe - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,62665,25,0.873,0.796,0.202,0.0,0.17,-14.718,0.895,99.358,4
+1013,Breathe,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,264960,54,0.37,0.491,0.475,0.0,0.118,-7.405,0.0268,147.988,4
+1014,Tell Me Why - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,43075,23,0.64,0.689,0.267,0.0,0.356,-12.169,0.928,99.948,3
+1015,Tell Me Why,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,201533,28,0.0697,0.604,0.851,1.69e-06,0.358,-3.08,0.0394,100.007,4
+1016,You're Not Sorry - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,81998,23,0.783,0.746,0.27,0.0,0.147,-13.099,0.918,62.327,4
+1017,You're Not Sorry,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,263213,30,0.153,0.469,0.449,4.67e-06,0.112,-4.152,0.0274,133.939,4
+1018,The Way I Loved You - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,44283,23,0.873,0.823,0.25,0.0,0.167,-12.734,0.937,111.601,3
+1019,The Way I Loved You,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,245426,31,0.0339,0.444,0.727,0.0,0.111,-3.682,0.033,160.989,4
+1020,Forever & Always - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,73900,22,0.857,0.702,0.251,0.0,0.193,-13.557,0.939,67.722,1
+1021,Forever & Always,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,226306,30,0.0799,0.606,0.826,0.0,0.189,-4.974,0.0557,128.052,4
+1022,The Best Day - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,49787,22,0.773,0.643,0.304,0.0,0.4,-12.174,0.905,84.469,4
+1023,The Best Day,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,246320,46,0.622,0.666,0.449,1.92e-06,0.149,-8.569,0.029,126.083,4
+1024,Change - Commentary,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,47438,22,0.625,0.772,0.334,0.0,0.372,-11.779,0.865,78.855,3
+1025,Change,Fearless (Big Machine Radio Release Special),Taylor Swift,2008-11-11,280240,27,0.00434,0.541,0.757,0.0,0.112,-4.212,0.0386,96.0,4
+1026,Fearless - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,245106,9,0.00224,0.536,0.671,0.858,0.133,-5.934,0.0263,100.055,4
+1027,Fifteen - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,298106,5,0.0046,0.396,0.641,0.296,0.127,-8.717,0.0285,191.014,4
+1028,Love Story - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,239120,15,0.0189,0.61,0.753,0.487,0.108,-5.869,0.0315,119.036,4
+1029,Hey Stephen - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,264106,5,0.00961,0.755,0.571,0.251,0.0675,-9.292,0.0538,116.038,4
+1030,White Horse - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,238120,6,0.24,0.392,0.356,0.361,0.0991,-11.235,0.0332,185.714,4
+1031,You Belong With Me - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,234133,11,0.00592,0.677,0.723,0.76,0.104,-6.6,0.0346,130.004,4
+1032,"Breathe - Instrumental only, no BV",Fearless (Karaoke Version),Taylor Swift,2008-11-11,267106,8,0.0815,0.585,0.469,0.723,0.157,-9.202,0.0271,73.988,4
+1033,Tell Me Why - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,209320,4,0.00159,0.55,0.862,0.799,0.392,-5.727,0.0294,100.042,4
+1034,You're Not Sorry - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,265106,5,0.0112,0.482,0.415,0.0032,0.0846,-6.354,0.0291,134.112,4
+1035,The Way I Loved You - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,248120,8,0.00135,0.461,0.679,0.0414,0.112,-5.597,0.0306,160.845,4
+1036,Forever & Always - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,237053,6,0.000853,0.603,0.751,0.53,0.107,-6.56,0.0357,127.996,4
+1037,The Best Day - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,249106,4,0.441,0.611,0.627,0.628,0.133,-11.901,0.0359,126.02,4
+1038,Change - Instrumental with BGV,Fearless (Karaoke Version),Taylor Swift,2008-11-11,280000,4,2.47e-05,0.515,0.733,0.629,0.131,-5.518,0.031,96.012,4
+1039,Fearless - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,246653,8,0.00232,0.535,0.657,0.848,0.322,-6.031,0.0263,100.059,4
+1040,Fifteen - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,298693,6,0.00503,0.524,0.643,0.318,0.129,-8.768,0.0258,95.449,4
+1041,Love Story - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,239466,10,0.0161,0.61,0.735,0.495,0.0865,-5.859,0.0315,119.038,4
+1042,Hey Stephen - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,259226,6,0.0116,0.757,0.57,0.355,0.0695,-9.281,0.0551,116.035,4
+1043,White Horse - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,238613,6,0.235,0.374,0.352,0.58,0.103,-11.242,0.0336,185.463,4
+1044,You Belong With Me - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,237386,10,0.00615,0.667,0.741,0.791,0.124,-6.584,0.0348,129.995,4
+1045,"Breathe - Instrumental only, no BV",Fearless Karaoke,Taylor Swift,2008-11-11,268013,6,0.0746,0.582,0.469,0.833,0.107,-9.192,0.027,73.966,4
+1046,Tell Me Why - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,204346,5,0.00104,0.551,0.848,0.738,0.36,-5.722,0.0294,100.037,4
+1047,You're Not Sorry - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,264893,5,0.0105,0.457,0.417,0.00284,0.0996,-6.381,0.028,67.019,4
+1048,The Way I Loved You - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,246400,6,0.00163,0.466,0.704,0.103,0.112,-5.635,0.0313,160.868,4
+1049,Forever & Always - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,228520,6,0.000549,0.593,0.762,0.387,0.109,-6.464,0.0348,128.032,4
+1050,The Best Day - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,250026,5,0.448,0.61,0.625,0.667,0.158,-11.858,0.0386,126.036,4
+1051,Change - Instrumental with BGV,Fearless Karaoke,Taylor Swift,2008-11-11,280040,3,2.54e-05,0.523,0.706,0.627,0.118,-5.518,0.0307,96.025,4
+1052,Jump Then Fall,Fearless (Platinum Edition),Taylor Swift,2008-11-11,237066,47,0.111,0.618,0.687,0.0,0.0693,-5.737,0.0271,79.991,4
+1053,Untouchable,Fearless (Platinum Edition),Taylor Swift,2008-11-11,311040,47,0.0583,0.419,0.454,3.78e-06,0.0974,-6.809,0.0335,200.017,4
+1054,Forever & Always - Piano Version,Fearless (Platinum Edition),Taylor Swift,2008-11-11,267506,48,0.852,0.592,0.16,0.0,0.116,-10.785,0.0347,118.929,4
+1055,Come In With The Rain,Fearless (Platinum Edition),Taylor Swift,2008-11-11,238093,45,0.0961,0.527,0.461,2.47e-06,0.24,-6.172,0.0256,143.94,4
+1056,SuperStar,Fearless (Platinum Edition),Taylor Swift,2008-11-11,261453,44,0.367,0.61,0.531,0.0,0.351,-6.123,0.0239,85.979,4
+1057,The Other Side Of The Door,Fearless (Platinum Edition),Taylor Swift,2008-11-11,237600,45,0.169,0.476,0.816,0.0,0.238,-4.279,0.0347,163.847,4
+1058,Fearless,Fearless (Platinum Edition),Taylor Swift,2008-11-11,242000,47,0.0364,0.598,0.714,1.04e-06,0.31,-4.397,0.0273,99.979,4
+1059,Fifteen,Fearless (Platinum Edition),Taylor Swift,2008-11-11,294346,46,0.0728,0.559,0.636,0.0,0.144,-4.4,0.0263,95.485,4
+1060,Love Story,Fearless (Platinum Edition),Taylor Swift,2008-11-11,235280,59,0.157,0.618,0.736,0.0,0.073,-3.937,0.0308,118.982,4
+1061,Hey Stephen,Fearless (Platinum Edition),Taylor Swift,2008-11-11,254320,50,0.168,0.843,0.553,2.66e-06,0.107,-7.348,0.0317,115.997,4
+1062,White Horse,Fearless (Platinum Edition),Taylor Swift,2008-11-11,234440,45,0.302,0.585,0.346,0.0,0.102,-8.014,0.0256,92.564,4
+1063,You Belong With Me,Fearless (Platinum Edition),Taylor Swift,2008-11-11,231146,58,0.164,0.687,0.771,2.46e-05,0.112,-4.424,0.0384,129.964,4
+1064,Breathe,Fearless (Platinum Edition),Taylor Swift,2008-11-11,263986,44,0.373,0.498,0.486,0.0,0.113,-7.384,0.0273,147.952,4
+1065,Tell Me Why,Fearless (Platinum Edition),Taylor Swift,2008-11-11,200560,48,0.0606,0.601,0.852,3.41e-06,0.37,-3.096,0.0386,100.015,4
+1066,You're Not Sorry,Fearless (Platinum Edition),Taylor Swift,2008-11-11,261800,50,0.13,0.459,0.459,2.3e-06,0.113,-4.126,0.0275,134.018,4
+1067,The Way I Loved You,Fearless (Platinum Edition),Taylor Swift,2008-11-11,244240,56,0.0322,0.436,0.712,0.0,0.111,-3.689,0.0329,160.886,4
+1068,Forever & Always,Fearless (Platinum Edition),Taylor Swift,2008-11-11,225333,52,0.0907,0.605,0.829,0.0,0.106,-4.993,0.0549,128.012,4
+1069,The Best Day,Fearless (Platinum Edition),Taylor Swift,2008-11-11,245346,43,0.611,0.664,0.447,1e-06,0.139,-8.535,0.0292,126.079,4
+1070,Change,Fearless (Platinum Edition),Taylor Swift,2008-11-11,281053,46,0.00471,0.548,0.756,0.0,0.117,-4.175,0.036,96.038,4
+1071,Jump Then Fall,Fearless Platinum Edition,Taylor Swift,2008-11-11,237066,47,0.111,0.618,0.687,0.0,0.0693,-5.737,0.0271,79.991,4
+1072,Untouchable,Fearless Platinum Edition,Taylor Swift,2008-11-11,311040,47,0.0583,0.419,0.454,3.78e-06,0.0974,-6.809,0.0335,200.017,4
+1073,Forever & Always - Piano Version,Fearless Platinum Edition,Taylor Swift,2008-11-11,267506,48,0.852,0.592,0.16,0.0,0.116,-10.785,0.0347,118.929,4
+1074,Come In With The Rain,Fearless Platinum Edition,Taylor Swift,2008-11-11,238106,46,0.0868,0.527,0.475,4.34e-06,0.248,-6.205,0.0258,143.962,4
+1075,SuperStar,Fearless Platinum Edition,Taylor Swift,2008-11-11,261453,44,0.367,0.61,0.531,0.0,0.351,-6.123,0.0239,85.979,4
+1076,The Other Side Of The Door,Fearless Platinum Edition,Taylor Swift,2008-11-11,237600,45,0.169,0.476,0.816,0.0,0.238,-4.279,0.0347,163.847,4
+1077,Fearless,Fearless Platinum Edition,Taylor Swift,2008-11-11,242000,49,0.0364,0.598,0.714,1.04e-06,0.31,-4.397,0.0273,99.979,4
+1078,Fifteen,Fearless Platinum Edition,Taylor Swift,2008-11-11,294346,48,0.0728,0.559,0.636,0.0,0.144,-4.4,0.0263,95.485,4
+1079,Love Story,Fearless Platinum Edition,Taylor Swift,2008-11-11,235280,54,0.157,0.618,0.736,0.0,0.073,-3.937,0.0308,118.982,4
+1080,Hey Stephen,Fearless Platinum Edition,Taylor Swift,2008-11-11,254320,46,0.168,0.843,0.553,2.66e-06,0.107,-7.348,0.0317,115.997,4
+1081,White Horse,Fearless Platinum Edition,Taylor Swift,2008-11-11,234440,48,0.302,0.585,0.346,0.0,0.102,-8.014,0.0256,92.564,4
+1082,You Belong With Me,Fearless Platinum Edition,Taylor Swift,2008-11-11,231146,55,0.164,0.687,0.771,2.46e-05,0.112,-4.424,0.0384,129.964,4
+1083,Breathe,Fearless Platinum Edition,Taylor Swift,2008-11-11,263986,49,0.373,0.498,0.486,0.0,0.113,-7.384,0.0273,147.952,4
+1084,Tell Me Why,Fearless Platinum Edition,Taylor Swift,2008-11-11,200560,45,0.0606,0.601,0.852,3.41e-06,0.37,-3.096,0.0386,100.015,4
+1085,You're Not Sorry,Fearless Platinum Edition,Taylor Swift,2008-11-11,261800,46,0.13,0.459,0.459,2.3e-06,0.113,-4.126,0.0275,134.018,4
+1086,The Way I Loved You,Fearless Platinum Edition,Taylor Swift,2008-11-11,244240,49,0.0322,0.436,0.712,0.0,0.111,-3.689,0.0329,160.886,4
+1087,Forever & Always,Fearless Platinum Edition,Taylor Swift,2008-11-11,225333,47,0.0907,0.605,0.829,0.0,0.106,-4.993,0.0549,128.012,4
+1088,The Best Day,Fearless Platinum Edition,Taylor Swift,2008-11-11,245346,45,0.611,0.664,0.447,1e-06,0.139,-8.535,0.0292,126.079,4
+1089,Change,Fearless Platinum Edition,Taylor Swift,2008-11-11,281053,44,0.00471,0.548,0.756,0.0,0.117,-4.175,0.036,96.038,4
+1090,Love Story - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,221028,37,0.659,0.741,0.444,0.0,0.131,-7.031,0.0311,119.006,4
+1091,Fearless - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,198247,34,0.814,0.623,0.266,0.0,0.145,-5.894,0.026,96.601,4
+1092,Beautiful Eyes - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,176316,35,0.596,0.627,0.704,0.0,0.0598,-3.739,0.0269,98.958,4
+1093,Untouchable - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,222959,31,0.856,0.731,0.184,0.0,0.0927,-9.235,0.0418,102.404,4
+1094,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,196346,32,0.664,0.344,0.801,0.0,0.106,-5.373,0.0574,204.489,4
+1095,Picture To Burn - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,173899,31,0.266,0.647,0.872,0.0,0.419,-1.953,0.0524,105.798,4
+1096,Should've Said No - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,228473,32,0.399,0.429,0.808,0.0,0.0884,-3.004,0.0677,171.537,4
+1097,Change - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,Taylor Swift,2008-06-28,258487,30,0.156,0.243,0.712,0.0,0.111,-4.307,0.0577,202.319,4
+1098,Fearless,Fearless,Taylor Swift,2008-01-01,243093,33,0.0365,0.591,0.703,0.0,0.307,-4.376,0.0279,100.036,4
+1099,Fifteen,Fearless,Taylor Swift,2008-01-01,295333,34,0.0647,0.559,0.627,0.0,0.137,-4.469,0.0264,95.452,4
+1100,Love Story,Fearless,Taylor Swift,2008-01-01,236253,46,0.153,0.616,0.738,0.0,0.0769,-3.941,0.0311,118.994,4
+1101,Hey Stephen,Fearless,Taylor Swift,2008-01-01,256053,29,0.176,0.842,0.554,3.49e-06,0.0911,-7.355,0.0317,116.009,4
+1102,White Horse,Fearless,Taylor Swift,2008-01-01,235400,33,0.286,0.581,0.342,0.0,0.101,-8.022,0.0259,92.166,4
+1103,You Belong With Me,Fearless,Taylor Swift,2008-01-01,232120,48,0.157,0.687,0.755,1.09e-05,0.093,-4.426,0.0385,129.973,4
+1104,Breathe,Fearless,Taylor Swift,2008-01-01,264946,30,0.377,0.497,0.48,0.0,0.118,-7.374,0.0269,147.96,4
+1105,Tell Me Why,Fearless,Taylor Swift,2008-01-01,201533,25,0.0542,0.603,0.839,3.36e-06,0.353,-3.111,0.0384,100.074,4
+1106,You're Not Sorry,Fearless,Taylor Swift,2008-01-01,263200,28,0.166,0.478,0.45,1.79e-06,0.114,-4.153,0.0269,133.932,4
+1107,The Way I Loved You,Fearless,Taylor Swift,2008-01-01,245426,33,0.0322,0.446,0.705,0.0,0.11,-3.706,0.0335,160.933,4
+1108,Forever & Always,Fearless,Taylor Swift,2008-01-01,226293,31,0.0871,0.604,0.828,0.0,0.106,-4.976,0.0629,128.024,4
+1109,The Best Day,Fearless,Taylor Swift,2008-01-01,246320,26,0.636,0.665,0.445,3.71e-06,0.131,-8.519,0.0288,126.093,4
+1110,Change,Fearless,Taylor Swift,2008-01-01,280533,23,0.00414,0.541,0.753,0.0,0.111,-4.24,0.0373,95.953,4
+1111,Tim McGraw,Taylor Swift,Taylor Swift,2006-10-24,232106,50,0.575,0.58,0.491,0.0,0.121,-6.462,0.0251,76.009,4
+1112,Picture To Burn,Taylor Swift,Taylor Swift,2006-10-24,173066,55,0.173,0.658,0.877,0.0,0.0962,-2.098,0.0323,105.586,4
+1113,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,Taylor Swift,2006-10-24,203040,59,0.288,0.621,0.417,0.0,0.119,-6.941,0.0231,99.953,4
+1114,A Place in this World,Taylor Swift,Taylor Swift,2006-10-24,199200,50,0.051,0.576,0.777,0.0,0.32,-2.881,0.0324,115.028,4
+1115,Cold As You,Taylor Swift,Taylor Swift,2006-10-24,239013,51,0.217,0.418,0.482,0.0,0.123,-5.769,0.0266,175.558,4
+1116,The Outside,Taylor Swift,Taylor Swift,2006-10-24,207106,48,0.00491,0.589,0.805,0.0,0.24,-4.055,0.0293,112.982,4
+1117,Tied Together with a Smile,Taylor Swift,Taylor Swift,2006-10-24,248106,48,0.525,0.479,0.578,0.0,0.0841,-4.963,0.0294,146.165,4
+1118,Stay Beautiful,Taylor Swift,Taylor Swift,2006-10-24,236053,49,0.0868,0.594,0.629,0.0,0.137,-4.919,0.0246,131.597,4
+1119,Should've Said No,Taylor Swift,Taylor Swift,2006-10-24,242200,53,0.0103,0.476,0.777,0.0,0.196,-3.771,0.0289,167.964,4
+1120,Mary's Song (Oh My My My),Taylor Swift,Taylor Swift,2006-10-24,213080,51,0.0177,0.403,0.627,0.0,0.182,-5.28,0.0292,74.9,4
+1121,Our Song,Taylor Swift,Taylor Swift,2006-10-24,201106,56,0.111,0.668,0.672,0.0,0.329,-4.931,0.0303,89.011,4
+1122,I'm Only Me When I'm With You,Taylor Swift,Taylor Swift,2006-10-24,213053,51,0.00452,0.563,0.934,0.000807,0.103,-3.629,0.0646,143.964,4
+1123,Invisible,Taylor Swift,Taylor Swift,2006-10-24,203226,49,0.637,0.612,0.394,0.0,0.147,-5.723,0.0243,96.001,4
+1124,A Perfectly Good Heart,Taylor Swift,Taylor Swift,2006-10-24,220146,47,0.00349,0.483,0.751,0.0,0.128,-5.726,0.0365,156.092,4
+1125,Teardrops on My Guitar - Pop Version,Taylor Swift,Taylor Swift,2006-10-24,179066,49,0.0402,0.459,0.753,0.0,0.0863,-3.827,0.0537,199.997,4
+1126,Tim McGraw,Taylor Swift,Taylor Swift,2006-10-24,232106,63,0.575,0.58,0.491,0.0,0.121,-6.462,0.0251,76.009,4
+1127,Picture To Burn,Taylor Swift,Taylor Swift,2006-10-24,173066,66,0.173,0.658,0.877,0.0,0.0962,-2.098,0.0323,105.586,4
+1128,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,Taylor Swift,2006-10-24,203040,66,0.288,0.621,0.417,0.0,0.119,-6.941,0.0231,99.953,4
+1129,A Place in this World,Taylor Swift,Taylor Swift,2006-10-24,199200,53,0.051,0.576,0.777,0.0,0.32,-2.881,0.0324,115.028,4
+1130,Cold As You,Taylor Swift,Taylor Swift,2006-10-24,239013,54,0.217,0.418,0.482,0.0,0.123,-5.769,0.0266,175.558,4
+1131,The Outside,Taylor Swift,Taylor Swift,2006-10-24,207106,51,0.00491,0.589,0.805,0.0,0.24,-4.055,0.0293,112.982,4
+1132,Tied Together with a Smile,Taylor Swift,Taylor Swift,2006-10-24,248106,52,0.525,0.479,0.578,0.0,0.0841,-4.963,0.0294,146.165,4
+1133,Stay Beautiful,Taylor Swift,Taylor Swift,2006-10-24,236053,53,0.0868,0.594,0.629,0.0,0.137,-4.919,0.0246,131.597,4
+1134,Should've Said No,Taylor Swift,Taylor Swift,2006-10-24,242200,62,0.0103,0.476,0.777,0.0,0.196,-3.771,0.0289,167.964,4
+1135,Mary's Song (Oh My My My),Taylor Swift,Taylor Swift,2006-10-24,213080,55,0.0177,0.403,0.627,0.0,0.182,-5.28,0.0292,74.9,4
+1136,Our Song,Taylor Swift,Taylor Swift,2006-10-24,201106,69,0.111,0.668,0.672,0.0,0.329,-4.931,0.0303,89.011,4
+1137,I'm Only Me When I'm With You,Taylor Swift,Taylor Swift,2006-10-24,213053,55,0.00452,0.563,0.934,0.000807,0.103,-3.629,0.0646,143.964,4
+1138,Invisible,Taylor Swift,Taylor Swift,2006-10-24,203226,52,0.637,0.612,0.394,0.0,0.147,-5.723,0.0243,96.001,4
+1139,A Perfectly Good Heart,Taylor Swift,Taylor Swift,2006-10-24,220146,50,0.00349,0.483,0.751,0.0,0.128,-5.726,0.0365,156.092,4
+1140,Teardrops on My Guitar - Pop Version,Taylor Swift,Taylor Swift,2006-10-24,179066,52,0.0402,0.459,0.753,0.0,0.0863,-3.827,0.0537,199.997,4
+1141,Tim McGraw - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,109690,20,0.872,0.634,0.278,0.0,0.127,-12.692,0.945,171.246,5
+1142,Tim McGraw,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,234546,54,0.601,0.574,0.499,0.0,0.123,-6.462,0.0254,76.0,4
+1143,Picture To Burn - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,59669,20,0.864,0.791,0.286,0.0,0.14,-12.078,0.942,60.266,4
+1144,Picture To Burn,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,175280,57,0.202,0.662,0.864,0.0,0.0997,-2.08,0.0322,105.607,4
+1145,Teardrops On My Guitar - Radio Single Remix / Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,64664,20,0.862,0.732,0.299,0.0,0.18,-12.416,0.941,84.758,4
+1146,Teardrops On My Guitar - Radio Single Remix,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,204706,56,0.331,0.626,0.44,0.0,0.146,-6.942,0.0232,99.962,4
+1147,A Place In This World - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,54383,19,0.871,0.685,0.278,0.0,0.143,-12.594,0.899,75.683,4
+1148,A Place In This World,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,202080,28,0.0506,0.573,0.77,0.0,0.321,-2.932,0.0326,114.982,4
+1149,Cold As You - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,97989,19,0.901,0.699,0.28,0.0,0.139,-12.809,0.945,138.159,4
+1150,Cold As You,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,241226,30,0.222,0.421,0.492,0.0,0.116,-5.735,0.0262,175.974,4
+1151,The Outside - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,65758,19,0.884,0.734,0.29,0.0,0.283,-12.607,0.922,94.383,3
+1152,The Outside,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,208986,27,0.0044,0.586,0.807,0.0,0.275,-4.05,0.0291,113.002,4
+1153,Tied Together With A Smile - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,77833,19,0.879,0.724,0.325,0.0,0.158,-13.422,0.953,67.906,4
+1154,Tied Together With A Smile,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,251213,32,0.501,0.48,0.556,0.0,0.081,-4.93,0.0277,146.118,4
+1155,Stay Beautiful - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,91800,19,0.701,0.747,0.286,0.0,0.128,-13.657,0.945,99.845,1
+1156,Stay Beautiful,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,238600,29,0.0993,0.592,0.631,0.0,0.158,-4.898,0.0248,131.607,4
+1157,Should’ve Said No - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,81269,19,0.83,0.726,0.28,0.0,0.144,-11.744,0.941,118.747,4
+1158,Should've Said No,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,244080,53,0.00983,0.477,0.758,0.0,0.203,-3.889,0.0285,167.935,4
+1159,Mary's Song (Oh My My My) - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,66176,19,0.821,0.72,0.303,0.0,0.166,-12.079,0.926,128.144,5
+1160,Mary's Song (Oh My My My),Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,215186,30,0.0212,0.486,0.612,0.0,0.239,-5.429,0.0269,150.721,4
+1161,Our Song - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,101968,19,0.864,0.72,0.279,0.0,0.32,-12.115,0.942,83.734,5
+1162,Our Song,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,203440,61,0.113,0.667,0.659,0.0,0.325,-4.932,0.0298,89.128,4
+1163,I’m Only Me When I’m With You - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,51919,19,0.881,0.713,0.27,0.0,0.141,-12.484,0.939,108.258,5
+1164,I'm Only Me When I'm With You,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,215600,34,0.0049,0.551,0.934,0.000563,0.103,-3.631,0.0752,143.94,4
+1165,Invisible - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,78527,19,0.816,0.72,0.222,0.0,0.14,-13.899,0.904,77.762,4
+1166,Invisible,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,205853,29,0.597,0.612,0.384,0.0,0.164,-5.731,0.024,96.02,4
+1167,A Perfectly Good Heart - Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,69432,19,0.839,0.644,0.248,0.0,0.118,-12.282,0.931,81.209,1
+1168,A Perfectly Good Heart,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,222146,27,0.0036,0.489,0.76,0.0,0.111,-5.713,0.0362,156.088,4
+1169,Teardrops On My Guitar - Pop Version / Commentary,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,82400,19,0.881,0.645,0.32,0.0,0.149,-11.998,0.931,80.865,1
+1170,Teardrops On My Guitar - Pop Version,Taylor Swift (Big Machine Radio Release Special),Taylor Swift,2006-10-24,179840,29,0.0456,0.464,0.742,0.0,0.0755,-3.976,0.0539,199.909,4
+1171,Tim McGraw - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,234266,4,0.202,0.55,0.447,0.0563,0.156,-9.548,0.0312,76.003,4
+1172,Picture To Burn - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,176106,5,0.0139,0.547,0.745,0.168,0.0565,-8.409,0.0266,105.492,4
+1173,Teardrops On My Guitar - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,214093,5,0.0367,0.625,0.381,0.869,0.0955,-13.582,0.0263,100.055,4
+1174,A Place In This World - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,209066,3,0.00153,0.562,0.674,0.626,0.34,-8.048,0.0316,115.011,4
+1175,Cold As You - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,249933,3,0.0518,0.552,0.457,0.0239,0.343,-11.197,0.0287,87.987,4
+1176,The Outside - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,210226,2,3.12e-05,0.553,0.704,0.83,0.184,-8.254,0.0283,113.031,4
+1177,Tied Together With A Smile - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,251186,2,0.104,0.526,0.462,0.302,0.0986,-9.512,0.0248,146.099,4
+1178,Stay Beautiful - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,247066,2,0.00483,0.562,0.521,0.00231,0.208,-10.731,0.034,131.751,4
+1179,Should've Said No - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,245613,5,3.36e-05,0.412,0.549,0.825,0.284,-9.168,0.032,168.091,4
+1180,Mary's Song (Oh My My My) - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,216120,3,7.36e-05,0.472,0.521,0.545,0.135,-10.802,0.0305,151.014,4
+1181,Our Song - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,204200,6,0.0295,0.627,0.493,0.00346,0.143,-9.273,0.03,89.025,4
+1182,I'm Only Me When I'm With You - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,223280,3,6.85e-05,0.535,0.8,0.765,0.309,-8.801,0.0319,144.02,4
+1183,Invisible - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,206373,2,0.287,0.576,0.27,0.662,0.1,-11.997,0.0297,95.987,4
+1184,A Perfectly Good Heart - Instrumental w/ BG vocals,Taylor Swift (Karaoke Version),Taylor Swift,2006-10-24,227000,2,5.82e-05,0.472,0.659,0.835,0.188,-8.969,0.0296,155.993,4
+1185,Tim McGraw - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,234733,6,0.18,0.523,0.427,0.0369,0.198,-9.534,0.0291,75.966,4
+1186,Picture To Burn - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,176213,6,0.0137,0.55,0.742,0.153,0.0674,-8.425,0.0267,105.488,4
+1187,Teardrops On My Guitar - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,214200,6,0.0423,0.621,0.369,0.825,0.0974,-13.636,0.0265,100.052,4
+1188,A Place In This World - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,209173,3,0.00116,0.568,0.66,0.588,0.337,-8.049,0.0311,115.005,4
+1189,Cold As You - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,250040,3,0.0673,0.557,0.469,0.0138,0.345,-11.18,0.0295,87.98,4
+1190,The Outside - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,210333,3,3.28e-05,0.553,0.712,0.758,0.188,-8.28,0.0283,113.025,4
+1191,Tied Together With A Smile - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,251293,3,0.111,0.528,0.469,0.36,0.0888,-9.524,0.0248,146.141,4
+1192,Stay Beautiful - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,247173,3,0.00486,0.567,0.532,0.00282,0.223,-10.733,0.0341,131.775,4
+1193,Should've Said No - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,245720,5,4.11e-05,0.414,0.563,0.801,0.295,-9.149,0.0313,168.127,4
+1194,Mary's Song (Oh My My My) - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,216226,3,8.14e-05,0.475,0.529,0.562,0.146,-10.802,0.0317,151.0,4
+1195,Our Song - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,204306,7,0.0326,0.528,0.484,0.00165,0.14,-9.266,0.0316,178.299,4
+1196,I'm Only Me When I'm With You - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,223386,3,5.28e-05,0.541,0.796,0.82,0.326,-8.833,0.0306,144.004,4
+1197,Invisible - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,206480,2,0.259,0.575,0.279,0.572,0.0941,-12.066,0.0286,96.007,4
+1198,A Perfectly Good Heart - Instrumental w/ BG vocals,Taylor Swift Karaoke,Taylor Swift,2006-10-24,227920,2,6.53e-05,0.468,0.658,0.903,0.18,-8.908,0.0309,155.995,4
